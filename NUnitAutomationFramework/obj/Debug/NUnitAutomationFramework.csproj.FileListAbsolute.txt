@@ -39,7 +39,6 @@ C:\PandaGit\ClientsAutomation\NUnitAutomationFramework\bin\Debug\SpreadsheetLigh
 C:\PandaGit\ClientsAutomation\NUnitAutomationFramework\bin\Debug\DocumentFormat.OpenXml.xml
 C:\PandaGit\ClientsAutomation\NUnitAutomationFramework\bin\Debug\nunit.framework.xml
 C:\PandaGit\ClientsAutomation\NUnitAutomationFramework\bin\Debug\SpreadsheetLight.xml
-C:\PandaGit\ClientsAutomation\NUnitAutomationFramework\obj\Debug\NUnitAutomationFramework.csprojResolveAssemblyReference.cache
 C:\PandaGit\ClientsAutomation\NUnitAutomationFramework\obj\Debug\NUnitAutomationFramework.csproj.ResolveComReference.cache
 C:\PandaGit\ClientsAutomation\NUnitAutomationFramework\obj\Debug\NUnitAutomationFramework.dll
 C:\PandaGit\ClientsAutomation\NUnitAutomationFramework\obj\Debug\NUnitAutomationFramework.pdb

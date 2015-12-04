@@ -77,9 +77,14 @@ namespace NUnitAutomationFramework
         {
             //string excelTemplate = string.Format("{0}Template.xlsx", AppDomain.CurrentDomain.BaseDirectory);
             //string excelFile = string.Format("{0}\\Results\\Template.xlsx", AppDomain.CurrentDomain.BaseDirectory);
-         
-            string excelTemplate = Utils.combineDirectoryPathWith("Template.xlsx");
-            string excelFile = Utils.combineDirectoryPathWith(@"Results\Template.xlsx"); 
+            if (!Directory.Exists("Results"))
+                Directory.CreateDirectory(Utils.combineDirectoryPathWith(@"Results"));
+
+            string excelTemplate = Utils.combineDirectoryPathWith(@"Helpers\Template.xlsx");
+            string excelFile = Utils.combineDirectoryPathWith(@"Results\Template.xlsx");
+
+           
+
             File.Copy(excelTemplate, excelFile);
 
             Utils.WriteErrorLog("Writing data to Excel ");

@@ -85,6 +85,12 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <None Include="Helpers\JsonFile.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Helpers\Template.xlsx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
