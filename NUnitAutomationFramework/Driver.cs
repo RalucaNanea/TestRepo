@@ -20,6 +20,7 @@ namespace NUnitAutomationFramework
             Instance.Manage().Timeouts().ImplicitlyWait(TimeSpan.FromSeconds(5));
             Instance.Manage().Window.Maximize();
             Driver.Instance.Manage().Timeouts().SetPageLoadTimeout(TimeSpan.FromSeconds(180));
+
         }
 
         public static void Close()
