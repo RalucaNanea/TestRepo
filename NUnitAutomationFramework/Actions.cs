@@ -100,7 +100,7 @@ namespace NUnitAutomationFramework
             var title = (string)js.ExecuteScript("return window.location.href='http://www.google.com'");
 
             Utils.WriteErrorLog("Wait 1 second for the alert to be displayed");
-            Thread.Sleep(TimeSpan.FromSeconds(1));
+            Thread.Sleep(TimeSpan.FromSeconds(3));
 
             if (Utils.isAlertPresent())
             {

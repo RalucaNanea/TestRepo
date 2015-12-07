@@ -83,9 +83,12 @@ namespace NUnitAutomationFramework
             string excelTemplate = Utils.combineDirectoryPathWith(@"Helpers\Template.xlsx");
             string excelFile = Utils.combineDirectoryPathWith(@"Results\Template.xlsx");
 
-           
+            if (File.Exists(excelFile))
+            {
+                File.SetAttributes(excelFile, FileAttributes.Normal);
+            }
 
-            File.Copy(excelTemplate, excelFile);
+            File.Copy(excelTemplate, excelFile, true);
 
             Utils.WriteErrorLog("Writing data to Excel ");
 

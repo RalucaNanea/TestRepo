@@ -1,423 +1,236 @@
-12/4/2015 11:49:30 AM: Initializing driver
-12/4/2015 11:49:30 AM: Driver is initializing 
-12/4/2015 11:49:36 AM: Driver has been initialized
-12/4/2015 11:49:36 AM: Navigating to http://www.shopjapan.co.jp/
-12/4/2015 11:49:44 AM: Navigated to http://www.shopjapan.co.jp/
-12/4/2015 11:49:59 AM: Selected a product from home/category page
-12/4/2015 11:50:08 AM: Waiting to redirect from http://www.shopjapan.co.jp/opt/ to http://www.shopjapan.co.jp/goods/WDS01
-12/4/2015 11:50:12 AM: Clicked on AddToCart button .price_area .cart_btn a
-12/4/2015 11:50:12 AM: Waiting 1 second for GoToCart button to be displayed
-12/4/2015 11:50:14 AM: Waiting to redirect from http://www.shopjapan.co.jp/goods/WDS01 to http://www.shopjapan.co.jp/disp/CCtViewCart_001.jsp?opcode=add
-12/4/2015 11:50:14 AM: Waiting for document to be ready 
-12/4/2015 11:50:17 AM: Changing domain
-12/4/2015 11:50:17 AM: Wait 1 second for the alert to be displayed
-12/4/2015 11:50:18 AM: Alert has been dismissed
-12/4/2015 11:50:20 AM: Initializing driver
-12/4/2015 11:50:20 AM: Driver is initializing 
-12/4/2015 11:50:26 AM: Driver has been initialized
-12/4/2015 11:50:26 AM: Navigating to https://www.dresslink.com/
-12/4/2015 11:50:34 AM: Navigated to https://www.dresslink.com/
-12/4/2015 11:50:34 AM: Advert has been closed on website https://www.dresslink.com/
-12/4/2015 11:50:36 AM: Selected a product from home/category page
-12/4/2015 11:50:52 AM: Waiting to redirect from https://www.dresslink.com/ to http://www.dresslink.com/outdoor-sports-fingerless-military-tactical-airsoft-hunting-riding-game-gloves-p-33032.html
-12/4/2015 11:50:52 AM: Selected #attr_ul_1 li a:not(.cursornot)(size or color)
-12/4/2015 11:50:53 AM: Selected #attr_ul_2 li a:not(.cursornot)(size or color)
-12/4/2015 11:50:53 AM: Clicked on AddToCart button #btn_addtocart
-12/4/2015 11:50:53 AM: Waiting 1 second for GoToCart button to be displayed
-12/4/2015 11:50:59 AM: Clicked on GoToCart button
-12/4/2015 11:51:05 AM: Waiting to redirect from http://www.dresslink.com/outdoor-sports-fingerless-military-tactical-airsoft-hunting-riding-game-gloves-p-33032.html to https://www.dresslink.com/shoppingcart.html
-12/4/2015 11:51:05 AM: Waiting for document to be ready 
-12/4/2015 11:51:08 AM: Changing domain
-12/4/2015 11:51:08 AM: Wait 1 second for the alert to be displayed
-12/4/2015 11:51:09 AM: Alert has been dismissed
-12/4/2015 11:51:11 AM: Initializing driver
-12/4/2015 11:51:11 AM: Driver is initializing 
-12/4/2015 11:51:18 AM: Driver has been initialized
-12/4/2015 11:51:18 AM: Navigating to http://www.dress-up.com.hk/
-12/4/2015 11:51:20 AM: Navigated to http://www.dress-up.com.hk/
-12/4/2015 11:51:22 AM: Selected a product from home/category page
-12/4/2015 11:51:23 AM: Waiting to redirect from http://www.dress-up.com.hk/ to http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=248252304262d2d7e55b9306b3d98c46
-12/4/2015 11:51:30 AM: Clicked on AddToCart button #cartAdd input[title=' Add to Cart ']
-12/4/2015 11:51:30 AM: Waiting 1 second for GoToCart button to be displayed
-12/4/2015 11:51:32 AM: Waiting to redirect from http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=248252304262d2d7e55b9306b3d98c46 to http://www.dress-up.com.hk/index.php?main_page=shopping_cart
-12/4/2015 11:51:32 AM: Waiting for document to be ready 
-12/4/2015 11:51:35 AM: Changing domain
-12/4/2015 11:51:36 AM: Wait 1 second for the alert to be displayed
-12/4/2015 11:51:44 AM: Writing data to Excel 
-12/4/2015 11:51:45 AM: Writing data to Excel http://www.shopjapan.co.jp/ Passed
-12/4/2015 11:51:45 AM: Writing data to Excel https://www.dresslink.com/ Passed
-12/4/2015 11:51:45 AM: Writing data to Excel http://www.dress-up.com.hk/ Failed
-12/4/2015 11:51:45 AM: Starting to send email
-12/4/2015 12:38:42 PM: Initializing driver
-12/4/2015 12:38:42 PM: Driver is initializing 
-12/4/2015 12:38:50 PM: Driver has been initialized
-12/4/2015 12:38:50 PM: Navigating to http://www.shopjapan.co.jp/
-12/4/2015 12:38:52 PM: Navigated to http://www.shopjapan.co.jp/
-12/4/2015 12:39:07 PM: Selected a product from home/category page
-12/4/2015 12:39:16 PM: Waiting to redirect from http://www.shopjapan.co.jp/opt/ to http://www.shopjapan.co.jp/goods/WDS01
-12/4/2015 12:39:16 PM: Redirected from http://www.shopjapan.co.jp/opt/ to http://www.shopjapan.co.jp/goods/WDS01
-12/4/2015 12:39:19 PM: Clicked on AddToCart button .price_area .cart_btn a
-12/4/2015 12:39:19 PM: Waiting 1 second for GoToCart button to be displayed
-12/4/2015 12:39:23 PM: Waiting to redirect from http://www.shopjapan.co.jp/goods/WDS01 to http://www.shopjapan.co.jp/disp/CCtViewCart_001.jsp?opcode=add
-12/4/2015 12:39:23 PM: Redirected from http://www.shopjapan.co.jp/goods/WDS01 to http://www.shopjapan.co.jp/disp/CCtViewCart_001.jsp?opcode=add
-12/4/2015 12:39:23 PM: Waiting for document to be ready 
-12/4/2015 12:39:29 PM: Changing domain
-12/4/2015 12:39:29 PM: Wait 1 second for the alert to be displayed
-12/4/2015 12:39:30 PM: Alert has been dismissed
-12/4/2015 12:39:32 PM: Initializing driver
-12/4/2015 12:39:32 PM: Driver is initializing 
-12/4/2015 12:39:40 PM: Driver has been initialized
-12/4/2015 12:39:40 PM: Navigating to https://www.dresslink.com/
-12/4/2015 12:39:46 PM: Navigated to https://www.dresslink.com/
-12/4/2015 12:39:47 PM: Advert has been closed on website https://www.dresslink.com/
-12/4/2015 12:39:49 PM: Selected a product from home/category page
-12/4/2015 12:39:53 PM: Waiting to redirect from https://www.dresslink.com/ to http://www.dresslink.com/outdoor-sports-fingerless-military-tactical-airsoft-hunting-riding-game-gloves-p-33032.html
-12/4/2015 12:39:53 PM: Redirected from https://www.dresslink.com/ to http://www.dresslink.com/outdoor-sports-fingerless-military-tactical-airsoft-hunting-riding-game-gloves-p-33032.html
-12/4/2015 12:39:53 PM: Selected #attr_ul_1 li a:not(.cursornot)(size or color)
-12/4/2015 12:39:54 PM: Selected #attr_ul_2 li a:not(.cursornot)(size or color)
-12/4/2015 12:39:54 PM: Clicked on AddToCart button #btn_addtocart
-12/4/2015 12:39:54 PM: Waiting 1 second for GoToCart button to be displayed
-12/4/2015 12:39:58 PM: Clicked on GoToCart button
-12/4/2015 12:40:02 PM: Waiting to redirect from http://www.dresslink.com/outdoor-sports-fingerless-military-tactical-airsoft-hunting-riding-game-gloves-p-33032.html to https://www.dresslink.com/shoppingcart.html
-12/4/2015 12:40:02 PM: Redirected from http://www.dresslink.com/outdoor-sports-fingerless-military-tactical-airsoft-hunting-riding-game-gloves-p-33032.html to https://www.dresslink.com/shoppingcart.html
-12/4/2015 12:40:03 PM: Waiting for document to be ready 
-12/4/2015 12:40:08 PM: Changing domain
-12/4/2015 12:40:08 PM: Wait 1 second for the alert to be displayed
-12/4/2015 12:40:09 PM: Alert has been dismissed
-12/4/2015 12:40:11 PM: Initializing driver
-12/4/2015 12:40:11 PM: Driver is initializing 
-12/4/2015 12:40:17 PM: Driver has been initialized
-12/4/2015 12:40:17 PM: Navigating to http://www.dress-up.com.hk/
-12/4/2015 12:40:18 PM: Navigated to http://www.dress-up.com.hk/
-12/4/2015 12:40:20 PM: Selected a product from home/category page
-12/4/2015 12:40:21 PM: Waiting to redirect from http://www.dress-up.com.hk/ to http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=9a16bde3ed354bc04a20fa7044689f7f
-12/4/2015 12:40:21 PM: Redirected from http://www.dress-up.com.hk/ to http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=9a16bde3ed354bc04a20fa7044689f7f
-12/4/2015 12:40:28 PM: Clicked on AddToCart button #cartAdd input[title=' Add to Cart ']
-12/4/2015 12:40:28 PM: Waiting 1 second for GoToCart button to be displayed
-12/4/2015 12:40:32 PM: Waiting to redirect from http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=9a16bde3ed354bc04a20fa7044689f7f to http://www.dress-up.com.hk/index.php?main_page=shopping_cart
-12/4/2015 12:40:32 PM: Redirected from http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=9a16bde3ed354bc04a20fa7044689f7f to http://www.dress-up.com.hk/index.php?main_page=shopping_cart
-12/4/2015 12:40:32 PM: Waiting for document to be ready 
-12/4/2015 12:40:37 PM: Changing domain
-12/4/2015 12:40:37 PM: Wait 1 second for the alert to be displayed
-12/4/2015 12:40:46 PM: Writing data to Excel 
-12/4/2015 12:40:46 PM: Writing data to Excel http://www.shopjapan.co.jp/ Passed
-12/4/2015 12:40:46 PM: Writing data to Excel https://www.dresslink.com/ Passed
-12/4/2015 12:40:46 PM: Writing data to Excel http://www.dress-up.com.hk/ Failed
-12/4/2015 12:40:46 PM: Starting to send email
-12/4/2015 1:49:09 PM: Initializing driver
-12/4/2015 1:49:09 PM: Driver is initializing 
-12/4/2015 1:49:16 PM: Driver has been initialized
-12/4/2015 1:49:16 PM: Navigating to http://www.shopjapan.co.jp/
-12/4/2015 1:49:19 PM: Navigated to http://www.shopjapan.co.jp/
-12/4/2015 1:49:39 PM: Selected a product from home/category page
-12/4/2015 1:49:50 PM: Waiting to redirect from http://www.shopjapan.co.jp/opt/ to http://www.shopjapan.co.jp/goods/WDS01
-12/4/2015 1:49:50 PM: Redirected from http://www.shopjapan.co.jp/opt/ to http://www.shopjapan.co.jp/goods/WDS01
-12/4/2015 1:49:54 PM: Clicked on AddToCart button .price_area .cart_btn a
-12/4/2015 1:49:54 PM: Waiting 1 second for GoToCart button to be displayed
-12/4/2015 1:49:59 PM: Waiting to redirect from http://www.shopjapan.co.jp/goods/WDS01 to http://www.shopjapan.co.jp/disp/CCtViewCart_001.jsp?opcode=add
-12/4/2015 1:49:59 PM: Redirected from http://www.shopjapan.co.jp/goods/WDS01 to http://www.shopjapan.co.jp/disp/CCtViewCart_001.jsp?opcode=add
-12/4/2015 1:49:59 PM: Waiting for document to be ready 
-12/4/2015 1:50:04 PM: Changing domain
-12/4/2015 1:50:04 PM: Wait 1 second for the alert to be displayed
-12/4/2015 1:50:05 PM: Alert has been dismissed
-12/4/2015 1:50:07 PM: Initializing driver
-12/4/2015 1:50:07 PM: Driver is initializing 
-12/4/2015 1:50:14 PM: Driver has been initialized
-12/4/2015 1:50:14 PM: Navigating to https://www.dresslink.com/
-12/4/2015 1:50:21 PM: Navigated to https://www.dresslink.com/
-12/4/2015 1:50:21 PM: Advert has been closed on website https://www.dresslink.com/
-12/4/2015 1:50:23 PM: Selected a product from home/category page
-12/4/2015 1:50:27 PM: Waiting to redirect from https://www.dresslink.com/ to http://www.dresslink.com/outdoor-sports-fingerless-military-tactical-airsoft-hunting-riding-game-gloves-p-33032.html
-12/4/2015 1:50:27 PM: Redirected from https://www.dresslink.com/ to http://www.dresslink.com/outdoor-sports-fingerless-military-tactical-airsoft-hunting-riding-game-gloves-p-33032.html
-12/4/2015 1:50:27 PM: Selected #attr_ul_1 li a:not(.cursornot)(size or color)
-12/4/2015 1:50:28 PM: Selected #attr_ul_2 li a:not(.cursornot)(size or color)
-12/4/2015 1:50:28 PM: Clicked on AddToCart button #btn_addtocart
-12/4/2015 1:50:28 PM: Waiting 1 second for GoToCart button to be displayed
-12/4/2015 1:50:31 PM: Clicked on GoToCart button
-12/4/2015 1:50:37 PM: Waiting to redirect from http://www.dresslink.com/outdoor-sports-fingerless-military-tactical-airsoft-hunting-riding-game-gloves-p-33032.html to https://www.dresslink.com/shoppingcart.html
-12/4/2015 1:50:37 PM: Redirected from http://www.dresslink.com/outdoor-sports-fingerless-military-tactical-airsoft-hunting-riding-game-gloves-p-33032.html to https://www.dresslink.com/shoppingcart.html
-12/4/2015 1:50:37 PM: Waiting for document to be ready 
-12/4/2015 1:50:42 PM: Changing domain
-12/4/2015 1:50:42 PM: Wait 1 second for the alert to be displayed
-12/4/2015 1:50:44 PM: Alert has been dismissed
-12/4/2015 1:50:46 PM: Initializing driver
-12/4/2015 1:50:46 PM: Driver is initializing 
-12/4/2015 1:50:51 PM: Driver has been initialized
-12/4/2015 1:50:51 PM: Navigating to http://www.dress-up.com.hk/
-12/4/2015 1:50:53 PM: Navigated to http://www.dress-up.com.hk/
-12/4/2015 1:50:54 PM: Selected a product from home/category page
-12/4/2015 1:50:56 PM: Waiting to redirect from http://www.dress-up.com.hk/ to http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=5f80a24f3fd49303ed8bd37fc2f94dbe
-12/4/2015 1:50:56 PM: Redirected from http://www.dress-up.com.hk/ to http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=5f80a24f3fd49303ed8bd37fc2f94dbe
-12/4/2015 1:51:02 PM: Clicked on AddToCart button #cartAdd input[title=' Add to Cart ']
-12/4/2015 1:51:02 PM: Waiting 1 second for GoToCart button to be displayed
-12/4/2015 1:51:06 PM: Waiting to redirect from http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=5f80a24f3fd49303ed8bd37fc2f94dbe to http://www.dress-up.com.hk/index.php?main_page=shopping_cart
-12/4/2015 1:51:06 PM: Redirected from http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=5f80a24f3fd49303ed8bd37fc2f94dbe to http://www.dress-up.com.hk/index.php?main_page=shopping_cart
-12/4/2015 1:51:06 PM: Waiting for document to be ready 
-12/4/2015 1:51:11 PM: Changing domain
-12/4/2015 1:51:11 PM: Wait 1 second for the alert to be displayed
-12/4/2015 1:51:21 PM: Writing data to Excel 
-12/4/2015 1:51:21 PM: Writing data to Excel http://www.shopjapan.co.jp/ Passed
-12/4/2015 1:51:21 PM: Writing data to Excel https://www.dresslink.com/ Passed
-12/4/2015 1:51:21 PM: Writing data to Excel http://www.dress-up.com.hk/ Failed
-12/4/2015 1:51:22 PM: Starting to send email
-12/4/2015 1:56:05 PM: Initializing driver
-12/4/2015 1:56:05 PM: Driver is initializing 
-12/4/2015 1:56:12 PM: Driver has been initialized
-12/4/2015 1:56:12 PM: Navigating to http://www.shopjapan.co.jp/
-12/4/2015 1:56:14 PM: Navigated to http://www.shopjapan.co.jp/
-12/4/2015 1:56:32 PM: Selected a product from home/category page
-12/4/2015 1:56:37 PM: Waiting to redirect from http://www.shopjapan.co.jp/opt/ to http://www.shopjapan.co.jp/goods/WDS01
-12/4/2015 1:56:37 PM: Redirected from http://www.shopjapan.co.jp/opt/ to http://www.shopjapan.co.jp/goods/WDS01
-12/4/2015 1:56:47 PM: Clicked on AddToCart button .price_area .cart_btn a
-12/4/2015 1:56:47 PM: Waiting 1 second for GoToCart button to be displayed
-12/4/2015 1:56:51 PM: Waiting to redirect from http://www.shopjapan.co.jp/goods/WDS01 to http://www.shopjapan.co.jp/disp/CCtViewCart_001.jsp?opcode=add
-12/4/2015 1:56:51 PM: Redirected from http://www.shopjapan.co.jp/goods/WDS01 to http://www.shopjapan.co.jp/disp/CCtViewCart_001.jsp?opcode=add
-12/4/2015 1:56:51 PM: Waiting for document to be ready 
-12/4/2015 1:56:56 PM: Changing domain
-12/4/2015 1:56:56 PM: Wait 1 second for the alert to be displayed
-12/4/2015 1:56:57 PM: Alert has been dismissed
-12/4/2015 1:56:59 PM: Initializing driver
-12/4/2015 1:56:59 PM: Driver is initializing 
-12/4/2015 1:57:07 PM: Driver has been initialized
-12/4/2015 1:57:07 PM: Navigating to https://www.dresslink.com/
-12/4/2015 1:57:13 PM: Navigated to https://www.dresslink.com/
-12/4/2015 1:57:14 PM: Advert has been closed on website https://www.dresslink.com/
-12/4/2015 1:57:16 PM: Selected a product from home/category page
-12/4/2015 1:57:22 PM: Waiting to redirect from https://www.dresslink.com/ to http://www.dresslink.com/outdoor-sports-fingerless-military-tactical-airsoft-hunting-riding-game-gloves-p-33032.html
-12/4/2015 1:57:22 PM: Redirected from https://www.dresslink.com/ to http://www.dresslink.com/outdoor-sports-fingerless-military-tactical-airsoft-hunting-riding-game-gloves-p-33032.html
-12/4/2015 1:57:22 PM: Selected #attr_ul_1 li a:not(.cursornot)(size or color)
-12/4/2015 1:57:23 PM: Selected #attr_ul_2 li a:not(.cursornot)(size or color)
-12/4/2015 1:57:23 PM: Clicked on AddToCart button #btn_addtocart
-12/4/2015 1:57:23 PM: Waiting 1 second for GoToCart button to be displayed
-12/4/2015 1:57:26 PM: Clicked on GoToCart button
-12/4/2015 1:57:30 PM: Waiting to redirect from http://www.dresslink.com/outdoor-sports-fingerless-military-tactical-airsoft-hunting-riding-game-gloves-p-33032.html to https://www.dresslink.com/shoppingcart.html
-12/4/2015 1:57:30 PM: Redirected from http://www.dresslink.com/outdoor-sports-fingerless-military-tactical-airsoft-hunting-riding-game-gloves-p-33032.html to https://www.dresslink.com/shoppingcart.html
-12/4/2015 1:57:30 PM: Waiting for document to be ready 
-12/4/2015 1:57:35 PM: Changing domain
-12/4/2015 1:57:36 PM: Wait 1 second for the alert to be displayed
-12/4/2015 1:57:37 PM: Alert has been dismissed
-12/4/2015 1:57:39 PM: Initializing driver
-12/4/2015 1:57:39 PM: Driver is initializing 
-12/4/2015 1:57:44 PM: Driver has been initialized
-12/4/2015 1:57:45 PM: Navigating to http://www.dress-up.com.hk/
-12/4/2015 1:57:46 PM: Navigated to http://www.dress-up.com.hk/
-12/4/2015 1:57:47 PM: Selected a product from home/category page
-12/4/2015 1:57:49 PM: Waiting to redirect from http://www.dress-up.com.hk/ to http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=1dc7c14bd0570d79bd0a266a00f4f7b9
-12/4/2015 1:57:49 PM: Redirected from http://www.dress-up.com.hk/ to http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=1dc7c14bd0570d79bd0a266a00f4f7b9
-12/4/2015 1:57:55 PM: Clicked on AddToCart button #cartAdd input[title=' Add to Cart ']
-12/4/2015 1:57:55 PM: Waiting 1 second for GoToCart button to be displayed
-12/4/2015 1:57:59 PM: Waiting to redirect from http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=1dc7c14bd0570d79bd0a266a00f4f7b9 to http://www.dress-up.com.hk/index.php?main_page=shopping_cart
-12/4/2015 1:57:59 PM: Redirected from http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=1dc7c14bd0570d79bd0a266a00f4f7b9 to http://www.dress-up.com.hk/index.php?main_page=shopping_cart
-12/4/2015 1:57:59 PM: Waiting for document to be ready 
-12/4/2015 1:58:04 PM: Changing domain
-12/4/2015 1:58:04 PM: Wait 1 second for the alert to be displayed
-12/4/2015 1:58:14 PM: Writing data to Excel 
-12/4/2015 1:58:14 PM: Writing data to Excel http://www.shopjapan.co.jp/ Passed
-12/4/2015 1:58:14 PM: Writing data to Excel https://www.dresslink.com/ Passed
-12/4/2015 1:58:14 PM: Writing data to Excel http://www.dress-up.com.hk/ Failed
-12/4/2015 1:58:14 PM: Starting to send email
-12/4/2015 4:15:33 PM: Initializing driver
-12/4/2015 4:15:33 PM: Driver is initializing 
-12/4/2015 4:15:41 PM: Driver has been initialized
-12/4/2015 4:15:41 PM: Navigating to http://www.shopjapan.co.jp/
-12/4/2015 4:15:43 PM: Navigated to http://www.shopjapan.co.jp/
-12/4/2015 4:15:58 PM: Selected a product from home/category page
-12/4/2015 4:16:04 PM: Waiting to redirect from http://www.shopjapan.co.jp/opt/ to http://www.shopjapan.co.jp/goods/WDS01
-12/4/2015 4:16:04 PM: Redirected from http://www.shopjapan.co.jp/opt/ to http://www.shopjapan.co.jp/goods/WDS01
-12/4/2015 4:16:05 PM: Clicked on AddToCart button .price_area .cart_btn a
-12/4/2015 4:16:05 PM: Waiting 1 second for GoToCart button to be displayed
-12/4/2015 4:16:15 PM: Waiting to redirect from http://www.shopjapan.co.jp/goods/WDS01 to http://www.shopjapan.co.jp/disp/CCtViewCart_001.jsp?opcode=add
-12/4/2015 4:16:15 PM: Redirected from http://www.shopjapan.co.jp/goods/WDS01 to http://www.shopjapan.co.jp/disp/CCtViewCart_001.jsp?opcode=add
-12/4/2015 4:16:15 PM: Waiting for document to be ready 
-12/4/2015 4:16:20 PM: Changing domain
-12/4/2015 4:16:20 PM: Wait 1 second for the alert to be displayed
-12/4/2015 4:16:21 PM: Alert has been dismissed
-12/4/2015 4:16:23 PM: Initializing driver
-12/4/2015 4:16:23 PM: Driver is initializing 
-12/4/2015 4:16:30 PM: Driver has been initialized
-12/4/2015 4:16:30 PM: Navigating to https://www.dresslink.com/
-12/4/2015 4:16:37 PM: Navigated to https://www.dresslink.com/
-12/4/2015 4:16:38 PM: Advert has been closed on website https://www.dresslink.com/
-12/4/2015 4:16:40 PM: Selected a product from home/category page
-12/4/2015 4:16:44 PM: Waiting to redirect from https://www.dresslink.com/ to http://www.dresslink.com/outdoor-sports-fingerless-military-tactical-airsoft-hunting-riding-game-gloves-p-33032.html
-12/4/2015 4:16:44 PM: Redirected from https://www.dresslink.com/ to http://www.dresslink.com/outdoor-sports-fingerless-military-tactical-airsoft-hunting-riding-game-gloves-p-33032.html
-12/4/2015 4:16:45 PM: Selected #attr_ul_1 li a:not(.cursornot)(size or color)
-12/4/2015 4:16:45 PM: Selected #attr_ul_2 li a:not(.cursornot)(size or color)
-12/4/2015 4:16:45 PM: Clicked on AddToCart button #btn_addtocart
-12/4/2015 4:16:45 PM: Waiting 1 second for GoToCart button to be displayed
-12/4/2015 4:16:49 PM: Clicked on GoToCart button
-12/4/2015 4:16:53 PM: Waiting to redirect from http://www.dresslink.com/outdoor-sports-fingerless-military-tactical-airsoft-hunting-riding-game-gloves-p-33032.html to https://www.dresslink.com/shoppingcart.html
-12/4/2015 4:16:53 PM: Redirected from http://www.dresslink.com/outdoor-sports-fingerless-military-tactical-airsoft-hunting-riding-game-gloves-p-33032.html to https://www.dresslink.com/shoppingcart.html
-12/4/2015 4:16:53 PM: Waiting for document to be ready 
-12/4/2015 4:16:58 PM: Changing domain
-12/4/2015 4:16:58 PM: Wait 1 second for the alert to be displayed
-12/4/2015 4:16:59 PM: Alert has been dismissed
-12/4/2015 4:17:01 PM: Initializing driver
-12/4/2015 4:17:01 PM: Driver is initializing 
-12/4/2015 4:17:07 PM: Driver has been initialized
-12/4/2015 4:17:07 PM: Navigating to http://www.dress-up.com.hk/
-12/4/2015 4:17:09 PM: Navigated to http://www.dress-up.com.hk/
-12/4/2015 4:17:11 PM: Selected a product from home/category page
-12/4/2015 4:17:12 PM: Waiting to redirect from http://www.dress-up.com.hk/ to http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=d0ec03ef31fbcbfef8b03a9139afafe6
-12/4/2015 4:17:12 PM: Redirected from http://www.dress-up.com.hk/ to http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=d0ec03ef31fbcbfef8b03a9139afafe6
-12/4/2015 4:17:18 PM: Clicked on AddToCart button #cartAdd input[title=' Add to Cart ']
-12/4/2015 4:17:18 PM: Waiting 1 second for GoToCart button to be displayed
-12/4/2015 4:17:22 PM: Waiting to redirect from http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=d0ec03ef31fbcbfef8b03a9139afafe6 to http://www.dress-up.com.hk/index.php?main_page=shopping_cart
-12/4/2015 4:17:22 PM: Redirected from http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=d0ec03ef31fbcbfef8b03a9139afafe6 to http://www.dress-up.com.hk/index.php?main_page=shopping_cart
-12/4/2015 4:17:22 PM: Waiting for document to be ready 
-12/4/2015 4:17:27 PM: Changing domain
-12/4/2015 4:17:27 PM: Wait 1 second for the alert to be displayed
-12/4/2015 4:17:36 PM: Writing data to Excel 
-12/4/2015 4:17:36 PM: Writing data to Excel http://www.shopjapan.co.jp/ Passed
-12/4/2015 4:17:36 PM: Writing data to Excel https://www.dresslink.com/ Passed
-12/4/2015 4:17:36 PM: Writing data to Excel http://www.dress-up.com.hk/ Failed
-12/4/2015 4:17:37 PM: Starting to send email
-12/4/2015 4:45:18 PM: Initializing driver
-12/4/2015 4:45:18 PM: Driver is initializing 
-12/4/2015 4:45:26 PM: Driver has been initialized
-12/4/2015 4:45:26 PM: Navigating to http://www.shopjapan.co.jp/
-12/4/2015 4:45:28 PM: Navigated to http://www.shopjapan.co.jp/
-12/4/2015 4:45:43 PM: Selected a product from home/category page
-12/4/2015 4:45:51 PM: Waiting to redirect from http://www.shopjapan.co.jp/opt/ to http://www.shopjapan.co.jp/goods/WDS01
-12/4/2015 4:45:51 PM: Redirected from http://www.shopjapan.co.jp/opt/ to http://www.shopjapan.co.jp/goods/WDS01
-12/4/2015 4:45:55 PM: Clicked on AddToCart button .price_area .cart_btn a
-12/4/2015 4:45:55 PM: Waiting 1 second for GoToCart button to be displayed
-12/4/2015 4:45:59 PM: Waiting to redirect from http://www.shopjapan.co.jp/goods/WDS01 to http://www.shopjapan.co.jp/disp/CCtViewCart_001.jsp?opcode=add
-12/4/2015 4:45:59 PM: Redirected from http://www.shopjapan.co.jp/goods/WDS01 to http://www.shopjapan.co.jp/disp/CCtViewCart_001.jsp?opcode=add
-12/4/2015 4:45:59 PM: Waiting for document to be ready 
-12/4/2015 4:46:04 PM: Changing domain
-12/4/2015 4:46:04 PM: Wait 1 second for the alert to be displayed
-12/4/2015 4:46:05 PM: Alert has been dismissed
-12/4/2015 4:46:07 PM: Initializing driver
-12/4/2015 4:46:07 PM: Driver is initializing 
-12/4/2015 4:46:14 PM: Driver has been initialized
-12/4/2015 4:46:14 PM: Navigating to https://www.dresslink.com/
-12/4/2015 4:46:21 PM: Navigated to https://www.dresslink.com/
-12/4/2015 4:46:21 PM: Advert has been closed on website https://www.dresslink.com/
-12/4/2015 4:46:23 PM: Selected a product from home/category page
-12/4/2015 4:46:28 PM: Waiting to redirect from https://www.dresslink.com/ to http://www.dresslink.com/outdoor-sports-fingerless-military-tactical-airsoft-hunting-riding-game-gloves-p-33032.html
-12/4/2015 4:46:28 PM: Redirected from https://www.dresslink.com/ to http://www.dresslink.com/outdoor-sports-fingerless-military-tactical-airsoft-hunting-riding-game-gloves-p-33032.html
-12/4/2015 4:46:28 PM: Selected #attr_ul_1 li a:not(.cursornot)(size or color)
-12/4/2015 4:46:29 PM: Selected #attr_ul_2 li a:not(.cursornot)(size or color)
-12/4/2015 4:46:29 PM: Clicked on AddToCart button #btn_addtocart
-12/4/2015 4:46:29 PM: Waiting 1 second for GoToCart button to be displayed
-12/4/2015 4:46:32 PM: Clicked on GoToCart button
-12/4/2015 4:46:36 PM: Waiting to redirect from http://www.dresslink.com/outdoor-sports-fingerless-military-tactical-airsoft-hunting-riding-game-gloves-p-33032.html to https://www.dresslink.com/shoppingcart.html
-12/4/2015 4:46:36 PM: Redirected from http://www.dresslink.com/outdoor-sports-fingerless-military-tactical-airsoft-hunting-riding-game-gloves-p-33032.html to https://www.dresslink.com/shoppingcart.html
-12/4/2015 4:46:36 PM: Waiting for document to be ready 
-12/4/2015 4:46:41 PM: Changing domain
-12/4/2015 4:46:42 PM: Wait 1 second for the alert to be displayed
-12/4/2015 4:46:43 PM: Alert has been dismissed
-12/4/2015 4:46:45 PM: Initializing driver
-12/4/2015 4:46:45 PM: Driver is initializing 
-12/4/2015 4:46:51 PM: Driver has been initialized
-12/4/2015 4:46:51 PM: Navigating to http://www.dress-up.com.hk/
-12/4/2015 4:46:52 PM: Navigated to http://www.dress-up.com.hk/
-12/4/2015 4:46:54 PM: Selected a product from home/category page
-12/4/2015 4:46:55 PM: Waiting to redirect from http://www.dress-up.com.hk/ to http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=f5f16acb3fed954fa0bedb1fc344d722
-12/4/2015 4:46:55 PM: Redirected from http://www.dress-up.com.hk/ to http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=f5f16acb3fed954fa0bedb1fc344d722
-12/4/2015 4:47:01 PM: Clicked on AddToCart button #cartAdd input[title=' Add to Cart ']
-12/4/2015 4:47:01 PM: Waiting 1 second for GoToCart button to be displayed
-12/4/2015 4:47:05 PM: Waiting to redirect from http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=f5f16acb3fed954fa0bedb1fc344d722 to http://www.dress-up.com.hk/index.php?main_page=shopping_cart
-12/4/2015 4:47:05 PM: Redirected from http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=f5f16acb3fed954fa0bedb1fc344d722 to http://www.dress-up.com.hk/index.php?main_page=shopping_cart
-12/4/2015 4:47:05 PM: Waiting for document to be ready 
-12/4/2015 4:47:10 PM: Changing domain
-12/4/2015 4:47:11 PM: Wait 1 second for the alert to be displayed
-12/4/2015 4:47:21 PM: Writing data to Excel 
-12/4/2015 4:47:21 PM: Writing data to Excel http://www.shopjapan.co.jp/ Passed
-12/4/2015 4:47:21 PM: Writing data to Excel https://www.dresslink.com/ Passed
-12/4/2015 4:47:21 PM: Writing data to Excel http://www.dress-up.com.hk/ Failed
-12/4/2015 4:47:22 PM: Starting to send email
-12/4/2015 4:52:33 PM: Initializing driver
-12/4/2015 4:52:33 PM: Driver is initializing 
-12/4/2015 4:52:40 PM: Driver has been initialized
-12/4/2015 4:52:40 PM: Navigating to http://www.shopjapan.co.jp/
-12/4/2015 4:52:42 PM: Navigated to http://www.shopjapan.co.jp/
-12/4/2015 4:52:58 PM: Selected a product from home/category page
-12/4/2015 4:53:08 PM: Waiting to redirect from http://www.shopjapan.co.jp/opt/ to http://www.shopjapan.co.jp/goods/WDS01
-12/4/2015 4:53:08 PM: Redirected from http://www.shopjapan.co.jp/opt/ to http://www.shopjapan.co.jp/goods/WDS01
-12/4/2015 4:53:08 PM: Initializing driver
-12/4/2015 4:53:08 PM: Driver is initializing 
-12/4/2015 4:53:15 PM: Driver has been initialized
-12/4/2015 4:53:15 PM: Navigating to https://www.dresslink.com/
-12/4/2015 4:53:21 PM: Navigated to https://www.dresslink.com/
-12/4/2015 4:53:21 PM: Advert has been closed on website https://www.dresslink.com/
-12/4/2015 4:53:24 PM: Selected a product from home/category page
-12/4/2015 4:53:26 PM: Waiting to redirect from https://www.dresslink.com/ to http://www.dresslink.com/outdoor-sports-fingerless-military-tactical-airsoft-hunting-riding-game-gloves-p-33032.html
-12/4/2015 4:53:27 PM: Redirected from https://www.dresslink.com/ to http://www.dresslink.com/outdoor-sports-fingerless-military-tactical-airsoft-hunting-riding-game-gloves-p-33032.html
-12/4/2015 4:53:28 PM: Initializing driver
-12/4/2015 4:53:28 PM: Driver is initializing 
-12/4/2015 4:53:34 PM: Driver has been initialized
-12/4/2015 4:53:34 PM: Navigating to http://www.dress-up.com.hk/
-12/4/2015 4:53:36 PM: Navigated to http://www.dress-up.com.hk/
-12/4/2015 4:53:38 PM: Selected a product from home/category page
-12/4/2015 4:53:39 PM: Waiting to redirect from http://www.dress-up.com.hk/ to http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=c92c4fa2afbca7affc0ca822ec634f0a
-12/4/2015 4:53:39 PM: Redirected from http://www.dress-up.com.hk/ to http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=c92c4fa2afbca7affc0ca822ec634f0a
-12/4/2015 4:53:45 PM: Clicked on AddToCart button #cartAdd input[title=' Add to Cart ']
-12/4/2015 4:53:45 PM: Waiting 1 second for GoToCart button to be displayed
-12/4/2015 4:53:49 PM: Waiting to redirect from http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=c92c4fa2afbca7affc0ca822ec634f0a to http://www.dress-up.com.hk/index.php?main_page=shopping_cart
-12/4/2015 4:53:49 PM: Redirected from http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=c92c4fa2afbca7affc0ca822ec634f0a to http://www.dress-up.com.hk/index.php?main_page=shopping_cart
-12/4/2015 4:53:49 PM: Waiting for document to be ready 
-12/4/2015 4:53:54 PM: Changing domain
-12/4/2015 4:53:54 PM: Wait 1 second for the alert to be displayed
-12/4/2015 4:54:03 PM: Writing data to Excel 
-12/4/2015 4:54:03 PM: Writing data to Excel http://www.shopjapan.co.jp/ Failed
-12/4/2015 4:54:03 PM: Writing data to Excel https://www.dresslink.com/ Failed
-12/4/2015 4:54:03 PM: Writing data to Excel http://www.dress-up.com.hk/ Failed
-12/4/2015 4:54:04 PM: Starting to send email
-12/4/2015 4:55:01 PM: Initializing driver
-12/4/2015 4:55:01 PM: Driver is initializing 
-12/4/2015 4:55:07 PM: Driver has been initialized
-12/4/2015 4:55:07 PM: Navigating to http://www.shopjapan.co.jp/
-12/4/2015 4:55:09 PM: Navigated to http://www.shopjapan.co.jp/
-12/4/2015 4:55:22 PM: Selected a product from home/category page
-12/4/2015 4:55:29 PM: Waiting to redirect from http://www.shopjapan.co.jp/opt/ to http://www.shopjapan.co.jp/goods/WDS01
-12/4/2015 4:55:29 PM: Redirected from http://www.shopjapan.co.jp/opt/ to http://www.shopjapan.co.jp/goods/WDS01
-12/4/2015 4:55:34 PM: Clicked on AddToCart button .price_area .cart_btn a
-12/4/2015 4:55:34 PM: Waiting 1 second for GoToCart button to be displayed
-12/4/2015 4:55:39 PM: Waiting to redirect from http://www.shopjapan.co.jp/goods/WDS01 to http://www.shopjapan.co.jp/disp/CCtViewCart_001.jsp?opcode=add
-12/4/2015 4:55:39 PM: Redirected from http://www.shopjapan.co.jp/goods/WDS01 to http://www.shopjapan.co.jp/disp/CCtViewCart_001.jsp?opcode=add
-12/4/2015 4:55:39 PM: Waiting for document to be ready 
-12/4/2015 4:55:44 PM: Changing domain
-12/4/2015 4:55:44 PM: Wait 1 second for the alert to be displayed
-12/4/2015 4:55:45 PM: Alert has been dismissed
-12/4/2015 4:55:47 PM: Initializing driver
-12/4/2015 4:55:47 PM: Driver is initializing 
-12/4/2015 4:55:53 PM: Driver has been initialized
-12/4/2015 4:55:53 PM: Navigating to https://www.dresslink.com/
-12/4/2015 4:56:00 PM: Navigated to https://www.dresslink.com/
-12/4/2015 4:56:00 PM: Advert has been closed on website https://www.dresslink.com/
-12/4/2015 4:56:02 PM: Selected a product from home/category page
-12/4/2015 4:56:05 PM: Waiting to redirect from https://www.dresslink.com/ to http://www.dresslink.com/outdoor-sports-fingerless-military-tactical-airsoft-hunting-riding-game-gloves-p-33032.html
-12/4/2015 4:56:05 PM: Redirected from https://www.dresslink.com/ to http://www.dresslink.com/outdoor-sports-fingerless-military-tactical-airsoft-hunting-riding-game-gloves-p-33032.html
-12/4/2015 4:56:06 PM: Selected #attr_ul_1 li a:not(.cursornot)(size or color)
-12/4/2015 4:56:06 PM: Selected #attr_ul_2 li a:not(.cursornot)(size or color)
-12/4/2015 4:56:06 PM: Clicked on AddToCart button #btn_addtocart
-12/4/2015 4:56:06 PM: Waiting 1 second for GoToCart button to be displayed
-12/4/2015 4:56:10 PM: Clicked on GoToCart button
-12/4/2015 4:56:14 PM: Waiting to redirect from http://www.dresslink.com/outdoor-sports-fingerless-military-tactical-airsoft-hunting-riding-game-gloves-p-33032.html to https://www.dresslink.com/shoppingcart.html
-12/4/2015 4:56:14 PM: Redirected from http://www.dresslink.com/outdoor-sports-fingerless-military-tactical-airsoft-hunting-riding-game-gloves-p-33032.html to https://www.dresslink.com/shoppingcart.html
-12/4/2015 4:56:14 PM: Waiting for document to be ready 
-12/4/2015 4:56:19 PM: Changing domain
-12/4/2015 4:56:19 PM: Wait 1 second for the alert to be displayed
-12/4/2015 4:56:20 PM: Alert has been dismissed
-12/4/2015 4:56:22 PM: Initializing driver
-12/4/2015 4:56:22 PM: Driver is initializing 
-12/4/2015 4:56:28 PM: Driver has been initialized
-12/4/2015 4:56:28 PM: Navigating to http://www.dress-up.com.hk/
-12/4/2015 4:56:29 PM: Navigated to http://www.dress-up.com.hk/
-12/4/2015 4:56:31 PM: Selected a product from home/category page
-12/4/2015 4:56:33 PM: Waiting to redirect from http://www.dress-up.com.hk/ to http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=5cef2c876df34a3784abed8df092aed6
-12/4/2015 4:56:33 PM: Redirected from http://www.dress-up.com.hk/ to http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=5cef2c876df34a3784abed8df092aed6
-12/4/2015 4:56:39 PM: Clicked on AddToCart button #cartAdd input[title=' Add to Cart ']
-12/4/2015 4:56:39 PM: Waiting 1 second for GoToCart button to be displayed
-12/4/2015 4:56:43 PM: Waiting to redirect from http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=5cef2c876df34a3784abed8df092aed6 to http://www.dress-up.com.hk/index.php?main_page=shopping_cart
-12/4/2015 4:56:43 PM: Redirected from http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=5cef2c876df34a3784abed8df092aed6 to http://www.dress-up.com.hk/index.php?main_page=shopping_cart
-12/4/2015 4:56:43 PM: Waiting for document to be ready 
-12/4/2015 4:56:48 PM: Changing domain
-12/4/2015 4:56:48 PM: Wait 1 second for the alert to be displayed
-12/4/2015 4:56:57 PM: Writing data to Excel 
-12/4/2015 4:56:57 PM: Writing data to Excel http://www.shopjapan.co.jp/ Passed
-12/4/2015 4:56:57 PM: Writing data to Excel https://www.dresslink.com/ Passed
-12/4/2015 4:56:57 PM: Writing data to Excel http://www.dress-up.com.hk/ Failed
-12/4/2015 4:56:57 PM: Starting to send email
+12/4/2015 5:58:40 PM: Initializing driver
+12/4/2015 5:58:40 PM: Driver is initializing 
+12/4/2015 5:58:48 PM: Driver has been initialized
+12/4/2015 5:58:48 PM: Navigating to http://www.shopjapan.co.jp/
+12/4/2015 5:59:13 PM: Navigated to http://www.shopjapan.co.jp/
+12/4/2015 5:59:25 PM: Initializing driver
+12/4/2015 5:59:25 PM: Driver is initializing 
+12/4/2015 5:59:33 PM: Driver has been initialized
+12/4/2015 5:59:33 PM: Navigating to https://www.dresslink.com/
+12/4/2015 5:59:33 PM: Navigated to https://www.dresslink.com/
+12/4/2015 5:59:38 PM: Initializing driver
+12/4/2015 5:59:38 PM: Driver is initializing 
+12/4/2015 5:59:45 PM: Driver has been initialized
+12/4/2015 5:59:45 PM: Navigating to http://www.dress-up.com.hk/
+12/4/2015 5:59:46 PM: Navigated to http://www.dress-up.com.hk/
+12/4/2015 5:59:58 PM: Writing data to Excel 
+12/4/2015 5:59:58 PM: Writing data to Excel http://www.shopjapan.co.jp/ Failed
+12/4/2015 5:59:58 PM: Writing data to Excel https://www.dresslink.com/ Failed
+12/4/2015 5:59:58 PM: Writing data to Excel http://www.dress-up.com.hk/ Failed
+12/4/2015 5:59:59 PM: Starting to send email
+12/4/2015 6:02:04 PM: Initializing driver
+12/4/2015 6:02:04 PM: Driver is initializing 
+12/4/2015 6:02:12 PM: Driver has been initialized
+12/4/2015 6:02:12 PM: Navigating to http://www.shopjapan.co.jp/
+12/4/2015 6:02:14 PM: Navigated to http://www.shopjapan.co.jp/
+12/4/2015 6:02:45 PM: Selected a product from home/category page
+12/4/2015 6:03:29 PM: Waiting to redirect from http://www.shopjapan.co.jp/opt/ to http://www.shopjapan.co.jp/goods/WDS01
+12/4/2015 6:03:29 PM: Redirected from http://www.shopjapan.co.jp/opt/ to http://www.shopjapan.co.jp/goods/WDS01
+12/4/2015 6:03:29 PM: Clicked on AddToCart button .price_area .cart_btn a
+12/4/2015 6:03:29 PM: Waiting 1 second for GoToCart button to be displayed
+12/4/2015 6:03:35 PM: Waiting to redirect from http://www.shopjapan.co.jp/goods/WDS01 to http://www.shopjapan.co.jp/disp/CCtViewCart_001.jsp?opcode=add
+12/4/2015 6:03:35 PM: Redirected from http://www.shopjapan.co.jp/goods/WDS01 to http://www.shopjapan.co.jp/disp/CCtViewCart_001.jsp?opcode=add
+12/4/2015 6:03:35 PM: Waiting for document to be ready 
+12/4/2015 6:03:40 PM: Changing domain
+12/4/2015 6:03:41 PM: Wait 1 second for the alert to be displayed
+12/4/2015 6:03:42 PM: Alert has been dismissed
+12/4/2015 6:03:44 PM: Initializing driver
+12/4/2015 6:03:44 PM: Driver is initializing 
+12/4/2015 6:03:51 PM: Driver has been initialized
+12/4/2015 6:03:51 PM: Navigating to https://www.dresslink.com/
+12/4/2015 6:03:57 PM: Navigated to https://www.dresslink.com/
+12/4/2015 6:03:58 PM: Advert has been closed on website https://www.dresslink.com/
+12/4/2015 6:04:05 PM: Selected a product from home/category page
+12/4/2015 6:04:09 PM: Waiting to redirect from https://www.dresslink.com/ to http://www.dresslink.com/outdoor-sports-fingerless-military-tactical-airsoft-hunting-riding-game-gloves-p-33032.html
+12/4/2015 6:04:09 PM: Redirected from https://www.dresslink.com/ to http://www.dresslink.com/outdoor-sports-fingerless-military-tactical-airsoft-hunting-riding-game-gloves-p-33032.html
+12/4/2015 6:04:10 PM: Selected #attr_ul_1 li a:not(.cursornot)(size or color)
+12/4/2015 6:04:11 PM: Selected #attr_ul_2 li a:not(.cursornot)(size or color)
+12/4/2015 6:04:11 PM: Clicked on AddToCart button #btn_addtocart
+12/4/2015 6:04:11 PM: Waiting 1 second for GoToCart button to be displayed
+12/4/2015 6:04:15 PM: Clicked on GoToCart button
+12/4/2015 6:04:19 PM: Waiting to redirect from http://www.dresslink.com/outdoor-sports-fingerless-military-tactical-airsoft-hunting-riding-game-gloves-p-33032.html to https://www.dresslink.com/shoppingcart.html
+12/4/2015 6:04:19 PM: Redirected from http://www.dresslink.com/outdoor-sports-fingerless-military-tactical-airsoft-hunting-riding-game-gloves-p-33032.html to https://www.dresslink.com/shoppingcart.html
+12/4/2015 6:04:19 PM: Waiting for document to be ready 
+12/4/2015 6:04:24 PM: Changing domain
+12/4/2015 6:04:24 PM: Wait 1 second for the alert to be displayed
+12/4/2015 6:04:25 PM: Alert has been dismissed
+12/4/2015 6:04:27 PM: Initializing driver
+12/4/2015 6:04:27 PM: Driver is initializing 
+12/4/2015 6:04:36 PM: Driver has been initialized
+12/4/2015 6:04:36 PM: Navigating to http://www.dress-up.com.hk/
+12/4/2015 6:04:38 PM: Navigated to http://www.dress-up.com.hk/
+12/4/2015 6:04:40 PM: Selected a product from home/category page
+12/4/2015 6:04:41 PM: Waiting to redirect from http://www.dress-up.com.hk/ to http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=8037733ca02c6ab12796b95a84973fff
+12/4/2015 6:04:41 PM: Redirected from http://www.dress-up.com.hk/ to http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=8037733ca02c6ab12796b95a84973fff
+12/4/2015 6:04:49 PM: Clicked on AddToCart button #cartAdd input[title=' Add to Cart ']
+12/4/2015 6:04:49 PM: Waiting 1 second for GoToCart button to be displayed
+12/4/2015 6:04:53 PM: Waiting to redirect from http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=8037733ca02c6ab12796b95a84973fff to http://www.dress-up.com.hk/index.php?main_page=shopping_cart
+12/4/2015 6:04:53 PM: Redirected from http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=8037733ca02c6ab12796b95a84973fff to http://www.dress-up.com.hk/index.php?main_page=shopping_cart
+12/4/2015 6:04:53 PM: Waiting for document to be ready 
+12/4/2015 6:04:58 PM: Changing domain
+12/4/2015 6:04:59 PM: Wait 1 second for the alert to be displayed
+12/4/2015 6:05:08 PM: Writing data to Excel 
+12/4/2015 6:05:08 PM: Writing data to Excel http://www.shopjapan.co.jp/ Passed
+12/4/2015 6:05:08 PM: Writing data to Excel https://www.dresslink.com/ Passed
+12/4/2015 6:05:08 PM: Writing data to Excel http://www.dress-up.com.hk/ Failed
+12/4/2015 6:05:09 PM: Starting to send email
+12/7/2015 10:11:02 AM: Initializing driver
+12/7/2015 10:11:03 AM: Driver is initializing 
+12/7/2015 10:11:09 AM: Driver has been initialized
+12/7/2015 10:11:09 AM: Navigating to http://www.shopjapan.co.jp/
+12/7/2015 10:11:14 AM: Navigated to http://www.shopjapan.co.jp/
+12/7/2015 10:11:33 AM: Selected a product from home/category page
+12/7/2015 10:11:46 AM: Waiting to redirect from http://www.shopjapan.co.jp/opt/ to http://www.shopjapan.co.jp/goods/WDS01
+12/7/2015 10:11:46 AM: Redirected from http://www.shopjapan.co.jp/opt/ to http://www.shopjapan.co.jp/goods/WDS01
+12/7/2015 10:11:46 AM: Clicked on AddToCart button .price_area .cart_btn a
+12/7/2015 10:11:46 AM: Waiting 1 second for GoToCart button to be displayed
+12/7/2015 10:11:53 AM: Waiting to redirect from http://www.shopjapan.co.jp/goods/WDS01 to http://www.shopjapan.co.jp/disp/CCtViewCart_001.jsp?opcode=add
+12/7/2015 10:11:53 AM: Redirected from http://www.shopjapan.co.jp/goods/WDS01 to http://www.shopjapan.co.jp/disp/CCtViewCart_001.jsp?opcode=add
+12/7/2015 10:11:53 AM: Waiting for document to be ready 
+12/7/2015 10:11:58 AM: Changing domain
+12/7/2015 10:11:58 AM: Wait 1 second for the alert to be displayed
+12/7/2015 10:11:59 AM: Alert has been dismissed
+12/7/2015 10:12:01 AM: Initializing driver
+12/7/2015 10:12:01 AM: Driver is initializing 
+12/7/2015 10:12:08 AM: Driver has been initialized
+12/7/2015 10:12:08 AM: Navigating to https://www.dresslink.com/
+12/7/2015 10:12:15 AM: Navigated to https://www.dresslink.com/
+12/7/2015 10:12:16 AM: Advert has been closed on website https://www.dresslink.com/
+12/7/2015 10:12:20 AM: Selected a product from home/category page
+12/7/2015 10:12:26 AM: Waiting to redirect from https://www.dresslink.com/ to http://www.dresslink.com/new-pro-makeup-cosmetic-tool-brush-set-foundation-eye-shadow-eyebrow-lip-brush-15-pcs-set-p-33114.html
+12/7/2015 10:12:27 AM: Redirected from https://www.dresslink.com/ to http://www.dresslink.com/new-pro-makeup-cosmetic-tool-brush-set-foundation-eye-shadow-eyebrow-lip-brush-15-pcs-set-p-33114.html
+12/7/2015 10:12:27 AM: Selected #attr_ul_1 li a:not(.cursornot)(size or color)
+12/7/2015 10:12:34 AM: Clicked on AddToCart button #btn_addtocart
+12/7/2015 10:12:34 AM: Waiting 1 second for GoToCart button to be displayed
+12/7/2015 10:12:37 AM: Clicked on GoToCart button
+12/7/2015 10:13:38 AM: The operation has timed out
+12/7/2015 10:14:39 AM: Initializing driver
+12/7/2015 10:14:39 AM: Driver is initializing 
+12/7/2015 10:14:45 AM: Driver has been initialized
+12/7/2015 10:14:45 AM: Navigating to http://www.dress-up.com.hk/
+12/7/2015 10:14:48 AM: Navigated to http://www.dress-up.com.hk/
+12/7/2015 10:14:49 AM: Selected a product from home/category page
+12/7/2015 10:14:50 AM: Waiting to redirect from http://www.dress-up.com.hk/ to http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=60ed4a91098eb87b5e33c2bf0db66170
+12/7/2015 10:14:50 AM: Redirected from http://www.dress-up.com.hk/ to http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=60ed4a91098eb87b5e33c2bf0db66170
+12/7/2015 10:14:57 AM: Clicked on AddToCart button #cartAdd input[title=' Add to Cart ']
+12/7/2015 10:14:57 AM: Waiting 1 second for GoToCart button to be displayed
+12/7/2015 10:15:01 AM: Waiting to redirect from http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=60ed4a91098eb87b5e33c2bf0db66170 to http://www.dress-up.com.hk/index.php?main_page=shopping_cart
+12/7/2015 10:15:01 AM: Redirected from http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=60ed4a91098eb87b5e33c2bf0db66170 to http://www.dress-up.com.hk/index.php?main_page=shopping_cart
+12/7/2015 10:15:01 AM: Waiting for document to be ready 
+12/7/2015 10:15:06 AM: Changing domain
+12/7/2015 10:15:06 AM: Wait 1 second for the alert to be displayed
+12/7/2015 10:15:15 AM: Writing data to Excel 
+12/7/2015 10:15:16 AM: Writing data to Excel http://www.shopjapan.co.jp/ Passed
+12/7/2015 10:15:16 AM: Writing data to Excel https://www.dresslink.com/ Failed
+12/7/2015 10:15:16 AM: Writing data to Excel http://www.dress-up.com.hk/ Failed
+12/7/2015 10:15:16 AM: Starting to send email
+12/7/2015 10:35:02 AM: Initializing driver
+12/7/2015 10:35:02 AM: Driver is initializing 
+12/7/2015 10:35:09 AM: Driver has been initialized
+12/7/2015 10:35:09 AM: Navigating to http://www.shopjapan.co.jp/
+12/7/2015 10:35:11 AM: Navigated to http://www.shopjapan.co.jp/
+12/7/2015 10:35:27 AM: Selected a product from home/category page
+12/7/2015 10:35:33 AM: Waiting to redirect from http://www.shopjapan.co.jp/opt/ to http://www.shopjapan.co.jp/goods/WDS01
+12/7/2015 10:35:33 AM: Redirected from http://www.shopjapan.co.jp/opt/ to http://www.shopjapan.co.jp/goods/WDS01
+12/7/2015 10:35:37 AM: Clicked on AddToCart button .price_area .cart_btn a
+12/7/2015 10:35:37 AM: Waiting 1 second for GoToCart button to be displayed
+12/7/2015 10:35:51 AM: Waiting to redirect from http://www.shopjapan.co.jp/goods/WDS01 to http://www.shopjapan.co.jp/disp/CCtViewCart_001.jsp?opcode=add
+12/7/2015 10:35:51 AM: Redirected from http://www.shopjapan.co.jp/goods/WDS01 to http://www.shopjapan.co.jp/disp/CCtViewCart_001.jsp?opcode=add
+12/7/2015 10:35:52 AM: Waiting for document to be ready 
+12/7/2015 10:35:57 AM: Changing domain
+12/7/2015 10:35:57 AM: Wait 1 second for the alert to be displayed
+12/7/2015 10:36:00 AM: Alert has been dismissed
+12/7/2015 10:36:02 AM: Initializing driver
+12/7/2015 10:36:02 AM: Driver is initializing 
+12/7/2015 10:36:08 AM: Driver has been initialized
+12/7/2015 10:36:08 AM: Navigating to https://www.dresslink.com/
+12/7/2015 10:36:15 AM: Navigated to https://www.dresslink.com/
+12/7/2015 10:36:15 AM: Advert has been closed on website https://www.dresslink.com/
+12/7/2015 10:36:17 AM: Selected a product from home/category page
+12/7/2015 10:36:23 AM: Waiting to redirect from https://www.dresslink.com/ to http://www.dresslink.com/new-pro-makeup-cosmetic-tool-brush-set-foundation-eye-shadow-eyebrow-lip-brush-15-pcs-set-p-33114.html
+12/7/2015 10:36:23 AM: Redirected from https://www.dresslink.com/ to http://www.dresslink.com/new-pro-makeup-cosmetic-tool-brush-set-foundation-eye-shadow-eyebrow-lip-brush-15-pcs-set-p-33114.html
+12/7/2015 10:36:23 AM: Selected #attr_ul_1 li a:not(.cursornot)(size or color)
+12/7/2015 10:36:28 AM: Clicked on AddToCart button #btn_addtocart
+12/7/2015 10:36:28 AM: Waiting 1 second for GoToCart button to be displayed
+12/7/2015 10:37:30 AM: Clicked on GoToCart button
+12/7/2015 10:37:35 AM: Waiting to redirect from http://www.dresslink.com/new-pro-makeup-cosmetic-tool-brush-set-foundation-eye-shadow-eyebrow-lip-brush-15-pcs-set-p-33114.html to https://www.dresslink.com/shoppingcart.html
+12/7/2015 10:37:36 AM: Redirected from http://www.dresslink.com/new-pro-makeup-cosmetic-tool-brush-set-foundation-eye-shadow-eyebrow-lip-brush-15-pcs-set-p-33114.html to https://www.dresslink.com/shoppingcart.html
+12/7/2015 10:37:36 AM: Waiting for document to be ready 
+12/7/2015 10:37:41 AM: Changing domain
+12/7/2015 10:37:41 AM: Wait 1 second for the alert to be displayed
+12/7/2015 10:37:44 AM: Alert has been dismissed
+12/7/2015 10:37:46 AM: Initializing driver
+12/7/2015 10:37:46 AM: Driver is initializing 
+12/7/2015 10:37:53 AM: Driver has been initialized
+12/7/2015 10:37:53 AM: Navigating to http://www.dress-up.com.hk/
+12/7/2015 10:37:54 AM: Navigated to http://www.dress-up.com.hk/
+12/7/2015 10:37:56 AM: Selected a product from home/category page
+12/7/2015 10:37:57 AM: Waiting to redirect from http://www.dress-up.com.hk/ to http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=9a2579178e422406fcc57a48df0593eb
+12/7/2015 10:37:57 AM: Redirected from http://www.dress-up.com.hk/ to http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=9a2579178e422406fcc57a48df0593eb
+12/7/2015 10:38:03 AM: Clicked on AddToCart button #cartAdd input[title=' Add to Cart ']
+12/7/2015 10:38:03 AM: Waiting 1 second for GoToCart button to be displayed
+12/7/2015 10:38:07 AM: Waiting to redirect from http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=9a2579178e422406fcc57a48df0593eb to http://www.dress-up.com.hk/index.php?main_page=shopping_cart
+12/7/2015 10:38:07 AM: Redirected from http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=9a2579178e422406fcc57a48df0593eb to http://www.dress-up.com.hk/index.php?main_page=shopping_cart
+12/7/2015 10:38:07 AM: Waiting for document to be ready 
+12/7/2015 10:38:12 AM: Changing domain
+12/7/2015 10:38:12 AM: Wait 1 second for the alert to be displayed
+12/7/2015 10:38:23 AM: Writing data to Excel 
+12/7/2015 10:38:23 AM: Writing data to Excel http://www.shopjapan.co.jp/ Passed
+12/7/2015 10:38:23 AM: Writing data to Excel https://www.dresslink.com/ Passed
+12/7/2015 10:38:23 AM: Writing data to Excel http://www.dress-up.com.hk/ Failed
+12/7/2015 10:38:23 AM: Starting to send email
+12/7/2015 10:46:23 AM: Initializing driver
+12/7/2015 10:46:23 AM: Driver is initializing 
+12/7/2015 10:46:29 AM: Driver has been initialized
+12/7/2015 10:46:29 AM: Navigating to http://www.shopjapan.co.jp/
+12/7/2015 10:46:30 AM: Navigated to http://www.shopjapan.co.jp/
+12/7/2015 10:46:44 AM: Selected a product from home/category page
+12/7/2015 10:46:53 AM: Waiting to redirect from http://www.shopjapan.co.jp/opt/ to http://www.shopjapan.co.jp/goods/WDS01
+12/7/2015 10:46:53 AM: Redirected from http://www.shopjapan.co.jp/opt/ to http://www.shopjapan.co.jp/goods/WDS01
+12/7/2015 10:46:53 AM: Clicked on AddToCart button .price_area .cart_btn a
+12/7/2015 10:46:53 AM: Waiting 1 second for GoToCart button to be displayed
+12/7/2015 10:46:58 AM: Waiting to redirect from http://www.shopjapan.co.jp/goods/WDS01 to http://www.shopjapan.co.jp/disp/CCtViewCart_001.jsp?opcode=add
+12/7/2015 10:46:58 AM: Redirected from http://www.shopjapan.co.jp/goods/WDS01 to http://www.shopjapan.co.jp/disp/CCtViewCart_001.jsp?opcode=add
+12/7/2015 10:46:58 AM: Waiting for document to be ready 
+12/7/2015 10:47:03 AM: Changing domain
+12/7/2015 10:47:03 AM: Wait 1 second for the alert to be displayed
+12/7/2015 10:47:06 AM: Alert has been dismissed
+12/7/2015 10:47:08 AM: Initializing driver
+12/7/2015 10:47:08 AM: Driver is initializing 
+12/7/2015 10:47:15 AM: Driver has been initialized
+12/7/2015 10:47:15 AM: Navigating to https://www.dresslink.com/
+12/7/2015 10:47:21 AM: Navigated to https://www.dresslink.com/
+12/7/2015 10:47:22 AM: Advert has been closed on website https://www.dresslink.com/
+12/7/2015 10:47:24 AM: Selected a product from home/category page
+12/7/2015 10:47:27 AM: Waiting to redirect from https://www.dresslink.com/ to http://www.dresslink.com/new-pro-makeup-cosmetic-tool-brush-set-foundation-eye-shadow-eyebrow-lip-brush-15-pcs-set-p-33114.html
+12/7/2015 10:47:27 AM: Redirected from https://www.dresslink.com/ to http://www.dresslink.com/new-pro-makeup-cosmetic-tool-brush-set-foundation-eye-shadow-eyebrow-lip-brush-15-pcs-set-p-33114.html
+12/7/2015 10:47:27 AM: Selected #attr_ul_1 li a:not(.cursornot)(size or color)
+12/7/2015 10:47:33 AM: Clicked on AddToCart button #btn_addtocart
+12/7/2015 10:47:33 AM: Waiting 1 second for GoToCart button to be displayed
+12/7/2015 10:47:36 AM: Clicked on GoToCart button
+12/7/2015 10:47:40 AM: Waiting to redirect from http://www.dresslink.com/new-pro-makeup-cosmetic-tool-brush-set-foundation-eye-shadow-eyebrow-lip-brush-15-pcs-set-p-33114.html to https://www.dresslink.com/shoppingcart.html
+12/7/2015 10:47:40 AM: Redirected from http://www.dresslink.com/new-pro-makeup-cosmetic-tool-brush-set-foundation-eye-shadow-eyebrow-lip-brush-15-pcs-set-p-33114.html to https://www.dresslink.com/shoppingcart.html
+12/7/2015 10:47:40 AM: Waiting for document to be ready 
+12/7/2015 10:47:45 AM: Changing domain
+12/7/2015 10:47:45 AM: Wait 1 second for the alert to be displayed
+12/7/2015 10:47:48 AM: Alert has been dismissed
+12/7/2015 10:47:51 AM: Initializing driver
+12/7/2015 10:47:51 AM: Driver is initializing 
+12/7/2015 10:47:56 AM: Driver has been initialized
+12/7/2015 10:47:56 AM: Navigating to http://www.dress-up.com.hk/
+12/7/2015 10:47:59 AM: Navigated to http://www.dress-up.com.hk/
+12/7/2015 10:48:01 AM: Selected a product from home/category page
+12/7/2015 10:48:02 AM: Waiting to redirect from http://www.dress-up.com.hk/ to http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=bffc5a562d95df8172a01c0eade4d7d1
+12/7/2015 10:48:02 AM: Redirected from http://www.dress-up.com.hk/ to http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=bffc5a562d95df8172a01c0eade4d7d1
+12/7/2015 10:48:08 AM: Clicked on AddToCart button #cartAdd input[title=' Add to Cart ']
+12/7/2015 10:48:08 AM: Waiting 1 second for GoToCart button to be displayed
+12/7/2015 10:48:12 AM: Waiting to redirect from http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=bffc5a562d95df8172a01c0eade4d7d1 to http://www.dress-up.com.hk/index.php?main_page=shopping_cart
+12/7/2015 10:48:12 AM: Redirected from http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=bffc5a562d95df8172a01c0eade4d7d1 to http://www.dress-up.com.hk/index.php?main_page=shopping_cart
+12/7/2015 10:48:12 AM: Waiting for document to be ready 
+12/7/2015 10:48:17 AM: Changing domain
+12/7/2015 10:48:17 AM: Wait 1 second for the alert to be displayed
+12/7/2015 10:48:27 AM: Writing data to Excel 
+12/7/2015 10:48:28 AM: Writing data to Excel http://www.shopjapan.co.jp/ Passed
+12/7/2015 10:48:28 AM: Writing data to Excel https://www.dresslink.com/ Passed
+12/7/2015 10:48:28 AM: Writing data to Excel http://www.dress-up.com.hk/ Failed
+12/7/2015 10:48:28 AM: Starting to send email

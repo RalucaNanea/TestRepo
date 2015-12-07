@@ -42,3 +42,4 @@ C:\PandaGit\ClientsAutomation\NUnitAutomationFramework\bin\Debug\SpreadsheetLigh
 C:\PandaGit\ClientsAutomation\NUnitAutomationFramework\obj\Debug\NUnitAutomationFramework.csproj.ResolveComReference.cache
 C:\PandaGit\ClientsAutomation\NUnitAutomationFramework\obj\Debug\NUnitAutomationFramework.dll
 C:\PandaGit\ClientsAutomation\NUnitAutomationFramework\obj\Debug\NUnitAutomationFramework.pdb
+C:\PandaGit\ClientsAutomation\NUnitAutomationFramework\obj\Debug\NUnitAutomationFramework.csprojResolveAssemblyReference.cache
