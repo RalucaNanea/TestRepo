@@ -298,3 +298,75 @@
 12/7/2015 11:25:40 AM: Driver is initializing 
 12/7/2015 11:25:48 AM: Driver has been initialized
 12/7/2015 11:25:48 AM: Navigating to https://www.dresslink.com/
+12/7/2015 11:43:12 AM: Initializing driver
+12/7/2015 11:43:12 AM: Driver is initializing 
+12/7/2015 11:43:21 AM: Driver has been initialized
+12/7/2015 11:43:21 AM: Navigating to http://www.shopjapan.co.jp/
+12/7/2015 11:43:23 AM: Navigated to http://www.shopjapan.co.jp/
+12/7/2015 11:43:37 AM: Selected a product from home/category page
+12/7/2015 11:43:42 AM: Unable to connect to the remote server
+12/7/2015 11:43:46 AM: Initializing driver
+12/7/2015 11:43:46 AM: Driver is initializing 
+12/7/2015 11:43:53 AM: Driver has been initialized
+12/7/2015 11:43:53 AM: Navigating to https://www.dresslink.com/
+12/7/2015 11:43:54 AM: Navigated to https://www.dresslink.com/
+12/7/2015 11:44:00 AM: Initializing driver
+12/7/2015 11:44:00 AM: Driver is initializing 
+12/7/2015 11:44:07 AM: Driver has been initialized
+12/7/2015 11:44:07 AM: Navigating to http://www.dress-up.com.hk/
+12/7/2015 11:44:11 AM: Navigated to http://www.dress-up.com.hk/
+12/7/2015 11:46:09 AM: Initializing driver
+12/7/2015 11:46:09 AM: Driver is initializing 
+12/7/2015 11:46:17 AM: Driver has been initialized
+12/7/2015 11:46:17 AM: Navigating to http://www.shopjapan.co.jp/
+12/7/2015 11:46:19 AM: Navigated to http://www.shopjapan.co.jp/
+12/7/2015 11:46:34 AM: Selected a product from home/category page
+12/7/2015 11:46:41 AM: Waiting to redirect from http://www.shopjapan.co.jp/opt/ to http://www.shopjapan.co.jp/goods/WDS01
+12/7/2015 11:46:41 AM: Redirected from http://www.shopjapan.co.jp/opt/ to http://www.shopjapan.co.jp/goods/WDS01
+12/7/2015 11:46:45 AM: Clicked on AddToCart button .price_area .cart_btn a
+12/7/2015 11:46:45 AM: Waiting 1 second for GoToCart button to be displayed
+12/7/2015 11:46:49 AM: Waiting to redirect from http://www.shopjapan.co.jp/goods/WDS01 to http://www.shopjapan.co.jp/disp/CCtViewCart_001.jsp?opcode=add
+12/7/2015 11:46:49 AM: Redirected from http://www.shopjapan.co.jp/goods/WDS01 to http://www.shopjapan.co.jp/disp/CCtViewCart_001.jsp?opcode=add
+12/7/2015 11:46:49 AM: Waiting for document to be ready 
+12/7/2015 11:46:54 AM: Changing domain
+12/7/2015 11:46:54 AM: Wait 1 second for the alert to be displayed
+12/7/2015 11:46:57 AM: Alert has been dismissed
+12/7/2015 11:46:59 AM: Initializing driver
+12/7/2015 11:46:59 AM: Driver is initializing 
+12/7/2015 11:47:07 AM: Driver has been initialized
+12/7/2015 11:47:07 AM: Navigating to https://www.dresslink.com/
+12/7/2015 11:47:13 AM: Navigated to https://www.dresslink.com/
+12/7/2015 11:47:14 AM: Advert has been closed on website https://www.dresslink.com/
+12/7/2015 11:47:16 AM: Selected a product from home/category page
+12/7/2015 11:47:19 AM: Waiting to redirect from https://www.dresslink.com/ to http://www.dresslink.com/new-pro-makeup-cosmetic-tool-brush-set-foundation-eye-shadow-eyebrow-lip-brush-15-pcs-set-p-33114.html
+12/7/2015 11:47:19 AM: Redirected from https://www.dresslink.com/ to http://www.dresslink.com/new-pro-makeup-cosmetic-tool-brush-set-foundation-eye-shadow-eyebrow-lip-brush-15-pcs-set-p-33114.html
+12/7/2015 11:47:19 AM: Selected #attr_ul_1 li a:not(.cursornot)(size or color)
+12/7/2015 11:47:24 AM: Clicked on AddToCart button #btn_addtocart
+12/7/2015 11:47:25 AM: Waiting 1 second for GoToCart button to be displayed
+12/7/2015 11:47:30 AM: Clicked on GoToCart button
+12/7/2015 11:47:33 AM: Waiting to redirect from http://www.dresslink.com/new-pro-makeup-cosmetic-tool-brush-set-foundation-eye-shadow-eyebrow-lip-brush-15-pcs-set-p-33114.html to https://www.dresslink.com/shoppingcart.html
+12/7/2015 11:47:34 AM: Redirected from http://www.dresslink.com/new-pro-makeup-cosmetic-tool-brush-set-foundation-eye-shadow-eyebrow-lip-brush-15-pcs-set-p-33114.html to https://www.dresslink.com/shoppingcart.html
+12/7/2015 11:47:34 AM: Waiting for document to be ready 
+12/7/2015 11:47:39 AM: Changing domain
+12/7/2015 11:47:39 AM: Wait 1 second for the alert to be displayed
+12/7/2015 11:47:42 AM: Alert has been dismissed
+12/7/2015 11:47:44 AM: Initializing driver
+12/7/2015 11:47:44 AM: Driver is initializing 
+12/7/2015 11:47:50 AM: Driver has been initialized
+12/7/2015 11:47:50 AM: Navigating to http://www.dress-up.com.hk/
+12/7/2015 11:47:52 AM: Navigated to http://www.dress-up.com.hk/
+12/7/2015 11:47:53 AM: Selected a product from home/category page
+12/7/2015 11:47:54 AM: Waiting to redirect from http://www.dress-up.com.hk/ to http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=4dcacaef46bddc22519ec6c9629bd4b6
+12/7/2015 11:47:54 AM: Redirected from http://www.dress-up.com.hk/ to http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=4dcacaef46bddc22519ec6c9629bd4b6
+12/7/2015 11:48:01 AM: Clicked on AddToCart button #cartAdd input[title=' Add to Cart ']
+12/7/2015 11:48:01 AM: Waiting 1 second for GoToCart button to be displayed
+12/7/2015 11:48:05 AM: Waiting to redirect from http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=4dcacaef46bddc22519ec6c9629bd4b6 to http://www.dress-up.com.hk/index.php?main_page=shopping_cart
+12/7/2015 11:48:05 AM: Redirected from http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1473&zenid=4dcacaef46bddc22519ec6c9629bd4b6 to http://www.dress-up.com.hk/index.php?main_page=shopping_cart
+12/7/2015 11:48:05 AM: Waiting for document to be ready 
+12/7/2015 11:48:10 AM: Changing domain
+12/7/2015 11:48:10 AM: Wait 1 second for the alert to be displayed
+12/7/2015 11:48:21 AM: Writing data to Excel 
+12/7/2015 11:48:23 AM: Writing data to Excel http://www.shopjapan.co.jp/ Passed
+12/7/2015 11:48:23 AM: Writing data to Excel https://www.dresslink.com/ Passed
+12/7/2015 11:48:23 AM: Writing data to Excel http://www.dress-up.com.hk/ Failed
+12/7/2015 11:48:25 AM: Starting to send email

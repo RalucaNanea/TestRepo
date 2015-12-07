@@ -71,11 +71,9 @@ namespace Tests
         public void executeAfterAllTests()
         {
 
-            
-             
-          //  string excelFile = Utils.writeDataToExcel(testResults);
+            string excelFile = Utils.writeDataToExcel(testResults);
 
-           // SendEmail.SendMail(excelFile);
+            SendEmail.SendMail(excelFile);
 
         }
 
