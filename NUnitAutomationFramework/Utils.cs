@@ -20,7 +20,7 @@ using DocumentFormat.OpenXml;
 namespace NUnitAutomationFramework
 {
     public static class Utils
-    { //this is a test from branch test
+    { //this is lastBranch
         // I am chaging master and I want this change
         public static bool IsElementDisplayed(this IWebDriver driver, By element)
         {
