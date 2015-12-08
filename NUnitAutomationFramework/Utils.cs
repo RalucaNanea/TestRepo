@@ -20,15 +20,10 @@ using DocumentFormat.OpenXml;
 namespace NUnitAutomationFramework
 {
     public static class Utils
-<<<<<<< HEAD
+
     { //this is a test from branch test
         // I am on new master!
-=======
-    { //I am on teh second branch test
 
-        // I am chaging master and I want this change
-
->>>>>>> fc5de99d5e8dc2d6b1d6ef887867e899653c6bc4
         public static bool IsElementDisplayed(this IWebDriver driver, By element)
         {
             if (driver.FindElements(element).Count > 0)
