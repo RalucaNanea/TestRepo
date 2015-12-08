@@ -20,8 +20,12 @@ using DocumentFormat.OpenXml;
 namespace NUnitAutomationFramework
 {
     public static class Utils
+
     { //this is lastBranch
-        // I am chaging master and I want this change
+    
+        // I am on new master raluca
+
+
         public static bool IsElementDisplayed(this IWebDriver driver, By element)
         {
             if (driver.FindElements(element).Count > 0)
