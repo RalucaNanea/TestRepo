@@ -22,7 +22,7 @@ namespace NUnitAutomationFramework
     public static class Utils
 
     { //this is a test from branch test
-        // I am on new master!
+        // I am on new master raluca
 
         public static bool IsElementDisplayed(this IWebDriver driver, By element)
         {
