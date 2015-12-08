@@ -21,7 +21,7 @@ namespace NUnitAutomationFramework
 {
     public static class Utils
     { //this is a test from branch test
-        // I am chaging master and I want this change
+        // I am on new master!
         public static bool IsElementDisplayed(this IWebDriver driver, By element)
         {
             if (driver.FindElements(element).Count > 0)
