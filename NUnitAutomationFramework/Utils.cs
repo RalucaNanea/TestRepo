@@ -21,9 +21,7 @@ namespace NUnitAutomationFramework
 {
     public static class Utils
 
-    { //this is lastBranch
-    
-        // I am on new master raluca
+    { //3:00
 
 
         public static bool IsElementDisplayed(this IWebDriver driver, By element)
