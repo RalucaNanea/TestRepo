@@ -21,9 +21,7 @@ namespace NUnitAutomationFramework
 {
     public static class Utils
 
-    { //9 dec changed
-    // comment 1
-    // comment 2
+    { // latest changes 9 dec
         public static bool IsElementDisplayed(this IWebDriver driver, By element)
         {
             if (driver.FindElements(element).Count > 0)
