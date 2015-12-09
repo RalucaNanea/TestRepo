@@ -1,0 +1,45 @@
+C:\Users\Raluca\Documents\Workspace HK\DEVELOPMENT\NUnitAutomationFramework\NUnitAutomationFramework\bin\Debug\NUnitAutomationFramework.dll
+C:\Users\Raluca\Documents\Workspace HK\DEVELOPMENT\NUnitAutomationFramework\NUnitAutomationFramework\bin\Debug\NUnitAutomationFramework.pdb
+C:\Users\Raluca\Documents\Workspace HK\DEVELOPMENT\NUnitAutomationFramework\NUnitAutomationFramework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Raluca\Documents\Workspace HK\DEVELOPMENT\NUnitAutomationFramework\NUnitAutomationFramework\bin\Debug\nunit.framework.dll
+C:\Users\Raluca\Documents\Workspace HK\DEVELOPMENT\NUnitAutomationFramework\NUnitAutomationFramework\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\Raluca\Documents\Workspace HK\DEVELOPMENT\NUnitAutomationFramework\NUnitAutomationFramework\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\Raluca\Documents\Workspace HK\DEVELOPMENT\NUnitAutomationFramework\NUnitAutomationFramework\bin\Debug\WebDriver.dll
+C:\Users\Raluca\Documents\Workspace HK\DEVELOPMENT\NUnitAutomationFramework\NUnitAutomationFramework\bin\Debug\WebDriver.Support.dll
+C:\Users\Raluca\Documents\Workspace HK\DEVELOPMENT\NUnitAutomationFramework\NUnitAutomationFramework\bin\Debug\nunit.framework.xml
+C:\Users\Raluca\Documents\Workspace HK\DEVELOPMENT\NUnitAutomationFramework\NUnitAutomationFramework\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+C:\Users\Raluca\Documents\Workspace HK\DEVELOPMENT\NUnitAutomationFramework\NUnitAutomationFramework\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\Raluca\Documents\Workspace HK\DEVELOPMENT\NUnitAutomationFramework\NUnitAutomationFramework\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+C:\Users\Raluca\Documents\Workspace HK\DEVELOPMENT\NUnitAutomationFramework\NUnitAutomationFramework\bin\Debug\ThoughtWorks.Selenium.Core.xml
+C:\Users\Raluca\Documents\Workspace HK\DEVELOPMENT\NUnitAutomationFramework\NUnitAutomationFramework\bin\Debug\WebDriver.pdb
+C:\Users\Raluca\Documents\Workspace HK\DEVELOPMENT\NUnitAutomationFramework\NUnitAutomationFramework\bin\Debug\WebDriver.xml
+C:\Users\Raluca\Documents\Workspace HK\DEVELOPMENT\NUnitAutomationFramework\NUnitAutomationFramework\bin\Debug\WebDriver.Support.pdb
+C:\Users\Raluca\Documents\Workspace HK\DEVELOPMENT\NUnitAutomationFramework\NUnitAutomationFramework\bin\Debug\WebDriver.Support.xml
+C:\Users\Raluca\Documents\Workspace HK\DEVELOPMENT\NUnitAutomationFramework\NUnitAutomationFramework\obj\Debug\NUnitAutomationFramework.csprojResolveAssemblyReference.cache
+C:\Users\Raluca\Documents\Workspace HK\DEVELOPMENT\NUnitAutomationFramework\NUnitAutomationFramework\obj\Debug\NUnitAutomationFramework.dll
+C:\Users\Raluca\Documents\Workspace HK\DEVELOPMENT\NUnitAutomationFramework\NUnitAutomationFramework\obj\Debug\NUnitAutomationFramework.pdb
+C:\NUnitAutomationFramework\NUnitAutomationFramework\bin\Debug\NUnitAutomationFramework.dll
+C:\NUnitAutomationFramework\NUnitAutomationFramework\bin\Debug\NUnitAutomationFramework.pdb
+C:\NUnitAutomationFramework\NUnitAutomationFramework\bin\Debug\DocumentFormat.OpenXml.dll
+C:\NUnitAutomationFramework\NUnitAutomationFramework\bin\Debug\Newtonsoft.Json.dll
+C:\NUnitAutomationFramework\NUnitAutomationFramework\bin\Debug\nunit.framework.dll
+C:\NUnitAutomationFramework\NUnitAutomationFramework\bin\Debug\SpreadsheetLight.dll
+C:\NUnitAutomationFramework\NUnitAutomationFramework\bin\Debug\DocumentFormat.OpenXml.xml
+C:\NUnitAutomationFramework\NUnitAutomationFramework\bin\Debug\nunit.framework.xml
+C:\NUnitAutomationFramework\NUnitAutomationFramework\bin\Debug\SpreadsheetLight.xml
+C:\NUnitAutomationFramework\NUnitAutomationFramework\obj\Debug\NUnitAutomationFramework.csproj.ResolveComReference.cache
+C:\NUnitAutomationFramework\NUnitAutomationFramework\obj\Debug\NUnitAutomationFramework.dll
+C:\NUnitAutomationFramework\NUnitAutomationFramework\obj\Debug\NUnitAutomationFramework.pdb
+C:\PandaGit\ClientsAutomation\NUnitAutomationFramework\bin\Debug\NUnitAutomationFramework.dll
+C:\PandaGit\ClientsAutomation\NUnitAutomationFramework\bin\Debug\NUnitAutomationFramework.pdb
+C:\PandaGit\ClientsAutomation\NUnitAutomationFramework\bin\Debug\DocumentFormat.OpenXml.dll
+C:\PandaGit\ClientsAutomation\NUnitAutomationFramework\bin\Debug\Newtonsoft.Json.dll
+C:\PandaGit\ClientsAutomation\NUnitAutomationFramework\bin\Debug\nunit.framework.dll
+C:\PandaGit\ClientsAutomation\NUnitAutomationFramework\bin\Debug\SpreadsheetLight.dll
+C:\PandaGit\ClientsAutomation\NUnitAutomationFramework\bin\Debug\DocumentFormat.OpenXml.xml
+C:\PandaGit\ClientsAutomation\NUnitAutomationFramework\bin\Debug\nunit.framework.xml
+C:\PandaGit\ClientsAutomation\NUnitAutomationFramework\bin\Debug\SpreadsheetLight.xml
+C:\PandaGit\ClientsAutomation\NUnitAutomationFramework\obj\Debug\NUnitAutomationFramework.csproj.ResolveComReference.cache
+C:\PandaGit\ClientsAutomation\NUnitAutomationFramework\obj\Debug\NUnitAutomationFramework.dll
+C:\PandaGit\ClientsAutomation\NUnitAutomationFramework\obj\Debug\NUnitAutomationFramework.pdb
+C:\PandaGit\ClientsAutomation\NUnitAutomationFramework\obj\Debug\NUnitAutomationFramework.csprojResolveAssemblyReference.cache
