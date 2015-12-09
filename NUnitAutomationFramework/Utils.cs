@@ -22,7 +22,7 @@ namespace NUnitAutomationFramework
     public static class Utils
 
     { 
-
+        //testBranch 3:39
         public static bool IsElementDisplayed(this IWebDriver driver, By element)
         {
             if (driver.FindElements(element).Count > 0)
