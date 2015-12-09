@@ -57,3 +57,17 @@ See the contents of the log file for the C:\NUnitAutomationFramework\TestSchedul
 The file is located at C:\NUnitAutomationFramework\TestScheduler\bin\Debug\TestScheduler.InstallLog.
 
 The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\PandaAsia\TestScheduler\bin\Debug\TestScheduler.exe assembly's progress.
+The file is located at C:\PandaAsia\TestScheduler\bin\Debug\TestScheduler.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\PandaAsia\TestScheduler\bin\Debug\TestScheduler.exe assembly's progress.
+The file is located at C:\PandaAsia\TestScheduler\bin\Debug\TestScheduler.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.

@@ -43,3 +43,15 @@ C:\PandaGit\ClientsAutomation\NUnitAutomationFramework\obj\Debug\NUnitAutomation
 C:\PandaGit\ClientsAutomation\NUnitAutomationFramework\obj\Debug\NUnitAutomationFramework.dll
 C:\PandaGit\ClientsAutomation\NUnitAutomationFramework\obj\Debug\NUnitAutomationFramework.pdb
 C:\PandaGit\ClientsAutomation\NUnitAutomationFramework\obj\Debug\NUnitAutomationFramework.csprojResolveAssemblyReference.cache
+C:\PandaAsia\NUnitAutomationFramework\bin\Debug\NUnitAutomationFramework.dll
+C:\PandaAsia\NUnitAutomationFramework\bin\Debug\NUnitAutomationFramework.pdb
+C:\PandaAsia\NUnitAutomationFramework\bin\Debug\DocumentFormat.OpenXml.dll
+C:\PandaAsia\NUnitAutomationFramework\bin\Debug\Newtonsoft.Json.dll
+C:\PandaAsia\NUnitAutomationFramework\bin\Debug\nunit.framework.dll
+C:\PandaAsia\NUnitAutomationFramework\bin\Debug\SpreadsheetLight.dll
+C:\PandaAsia\NUnitAutomationFramework\bin\Debug\DocumentFormat.OpenXml.xml
+C:\PandaAsia\NUnitAutomationFramework\bin\Debug\nunit.framework.xml
+C:\PandaAsia\NUnitAutomationFramework\bin\Debug\SpreadsheetLight.xml
+C:\PandaAsia\NUnitAutomationFramework\obj\Debug\NUnitAutomationFramework.csproj.ResolveComReference.cache
+C:\PandaAsia\NUnitAutomationFramework\obj\Debug\NUnitAutomationFramework.dll
+C:\PandaAsia\NUnitAutomationFramework\obj\Debug\NUnitAutomationFramework.pdb

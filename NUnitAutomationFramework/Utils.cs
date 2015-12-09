@@ -76,13 +76,13 @@ namespace NUnitAutomationFramework
 
         public static string writeDataToExcel(List<ExcelData> testResults)
         {
-            //string excelTemplate = string.Format("{0}Template.xlsx", AppDomain.CurrentDomain.BaseDirectory);
-            //string excelFile = string.Format("{0}\\Results\\Template.xlsx", AppDomain.CurrentDomain.BaseDirectory);
+            string excelTemplate = string.Format("{0}Template.xlsx", AppDomain.CurrentDomain.BaseDirectory);
+            string excelFile = string.Format("{0}\\Results\\Template.xlsx", AppDomain.CurrentDomain.BaseDirectory);
             if (!Directory.Exists("Results"))
                 Directory.CreateDirectory(Utils.combineDirectoryPathWith(@"Results"));
 
-            string excelTemplate = Utils.combineDirectoryPathWith(@"Helpers\Template.xlsx");
-            string excelFile = Utils.combineDirectoryPathWith(@"Results\Template.xlsx");
+            //string excelTemplate = Utils.combineDirectoryPathWith(@"Helpers\Template.xlsx");
+            //string excelFile = Utils.combineDirectoryPathWith(@"Results\Template.xlsx");
 
             if (File.Exists(excelFile))
             {
@@ -149,8 +149,8 @@ namespace NUnitAutomationFramework
         }
 
         #region Logger
-        //public static string logFile = string.Format("{0}Logs.txt", AppDomain.CurrentDomain.BaseDirectory);
-        public static string logFile = Utils.combineDirectoryPathWith("Logs.txt");
+        public static string logFile = string.Format("{0}Logs.txt", AppDomain.CurrentDomain.BaseDirectory);
+        //public static string logFile = Utils.combineDirectoryPathWith("Logs.txt");
         public static void WriteErrorLog(Exception ex)
         {
             try
