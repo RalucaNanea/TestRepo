@@ -21,7 +21,7 @@ namespace NUnitAutomationFramework
 {
     public static class Utils
 
-    { //3:00
+    { //3:23
 
 
         public static bool IsElementDisplayed(this IWebDriver driver, By element)
