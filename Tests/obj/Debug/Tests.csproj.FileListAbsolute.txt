@@ -1,0 +1,70 @@
+C:\Users\Raluca\Documents\Workspace HK\DEVELOPMENT\NUnitAutomationFramework\Tests\bin\Debug\Tests.dll
+C:\Users\Raluca\Documents\Workspace HK\DEVELOPMENT\NUnitAutomationFramework\Tests\bin\Debug\Tests.pdb
+C:\Users\Raluca\Documents\Workspace HK\DEVELOPMENT\NUnitAutomationFramework\Tests\bin\Debug\nunit.framework.dll
+C:\Users\Raluca\Documents\Workspace HK\DEVELOPMENT\NUnitAutomationFramework\Tests\bin\Debug\NUnitAutomationFramework.dll
+C:\Users\Raluca\Documents\Workspace HK\DEVELOPMENT\NUnitAutomationFramework\Tests\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\Raluca\Documents\Workspace HK\DEVELOPMENT\NUnitAutomationFramework\Tests\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\Raluca\Documents\Workspace HK\DEVELOPMENT\NUnitAutomationFramework\Tests\bin\Debug\WebDriver.dll
+C:\Users\Raluca\Documents\Workspace HK\DEVELOPMENT\NUnitAutomationFramework\Tests\bin\Debug\WebDriver.Support.dll
+C:\Users\Raluca\Documents\Workspace HK\DEVELOPMENT\NUnitAutomationFramework\Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Raluca\Documents\Workspace HK\DEVELOPMENT\NUnitAutomationFramework\Tests\bin\Debug\NUnitAutomationFramework.pdb
+C:\Users\Raluca\Documents\Workspace HK\DEVELOPMENT\NUnitAutomationFramework\Tests\bin\Debug\nunit.framework.xml
+C:\Users\Raluca\Documents\Workspace HK\DEVELOPMENT\NUnitAutomationFramework\Tests\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+C:\Users\Raluca\Documents\Workspace HK\DEVELOPMENT\NUnitAutomationFramework\Tests\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\Raluca\Documents\Workspace HK\DEVELOPMENT\NUnitAutomationFramework\Tests\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+C:\Users\Raluca\Documents\Workspace HK\DEVELOPMENT\NUnitAutomationFramework\Tests\bin\Debug\ThoughtWorks.Selenium.Core.xml
+C:\Users\Raluca\Documents\Workspace HK\DEVELOPMENT\NUnitAutomationFramework\Tests\bin\Debug\WebDriver.pdb
+C:\Users\Raluca\Documents\Workspace HK\DEVELOPMENT\NUnitAutomationFramework\Tests\bin\Debug\WebDriver.xml
+C:\Users\Raluca\Documents\Workspace HK\DEVELOPMENT\NUnitAutomationFramework\Tests\bin\Debug\WebDriver.Support.pdb
+C:\Users\Raluca\Documents\Workspace HK\DEVELOPMENT\NUnitAutomationFramework\Tests\bin\Debug\WebDriver.Support.xml
+C:\Users\Raluca\Documents\Workspace HK\DEVELOPMENT\NUnitAutomationFramework\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\Raluca\Documents\Workspace HK\DEVELOPMENT\NUnitAutomationFramework\Tests\obj\Debug\Tests.dll
+C:\Users\Raluca\Documents\Workspace HK\DEVELOPMENT\NUnitAutomationFramework\Tests\obj\Debug\Tests.pdb
+C:\NUnitAutomationFramework\Tests\bin\Debug\Tests.dll
+C:\NUnitAutomationFramework\Tests\bin\Debug\Tests.pdb
+C:\NUnitAutomationFramework\Tests\bin\Debug\nunit.framework.dll
+C:\NUnitAutomationFramework\Tests\bin\Debug\NUnitAutomationFramework.dll
+C:\NUnitAutomationFramework\Tests\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\NUnitAutomationFramework\Tests\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\NUnitAutomationFramework\Tests\bin\Debug\WebDriver.dll
+C:\NUnitAutomationFramework\Tests\bin\Debug\WebDriver.Support.dll
+C:\NUnitAutomationFramework\Tests\bin\Debug\Newtonsoft.Json.dll
+C:\NUnitAutomationFramework\Tests\bin\Debug\SpreadsheetLight.dll
+C:\NUnitAutomationFramework\Tests\bin\Debug\DocumentFormat.OpenXml.dll
+C:\NUnitAutomationFramework\Tests\bin\Debug\NUnitAutomationFramework.pdb
+C:\NUnitAutomationFramework\Tests\bin\Debug\nunit.framework.xml
+C:\NUnitAutomationFramework\Tests\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\NUnitAutomationFramework\Tests\bin\Debug\ThoughtWorks.Selenium.Core.xml
+C:\NUnitAutomationFramework\Tests\bin\Debug\WebDriver.xml
+C:\NUnitAutomationFramework\Tests\bin\Debug\WebDriver.Support.xml
+C:\NUnitAutomationFramework\Tests\bin\Debug\SpreadsheetLight.xml
+C:\NUnitAutomationFramework\Tests\bin\Debug\DocumentFormat.OpenXml.xml
+C:\NUnitAutomationFramework\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\NUnitAutomationFramework\Tests\obj\Debug\Tests.csproj.ResolveComReference.cache
+C:\NUnitAutomationFramework\Tests\obj\Debug\Tests.dll
+C:\NUnitAutomationFramework\Tests\obj\Debug\Tests.pdb
+C:\PandaGit\ClientsAutomation\Tests\bin\Debug\Helpers\JsonFile.json
+C:\PandaGit\ClientsAutomation\Tests\bin\Debug\Helpers\Template.xlsx
+C:\PandaGit\ClientsAutomation\Tests\bin\Debug\Tests.dll
+C:\PandaGit\ClientsAutomation\Tests\bin\Debug\Tests.pdb
+C:\PandaGit\ClientsAutomation\Tests\bin\Debug\nunit.framework.dll
+C:\PandaGit\ClientsAutomation\Tests\bin\Debug\NUnitAutomationFramework.dll
+C:\PandaGit\ClientsAutomation\Tests\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\PandaGit\ClientsAutomation\Tests\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\PandaGit\ClientsAutomation\Tests\bin\Debug\WebDriver.dll
+C:\PandaGit\ClientsAutomation\Tests\bin\Debug\WebDriver.Support.dll
+C:\PandaGit\ClientsAutomation\Tests\bin\Debug\Newtonsoft.Json.dll
+C:\PandaGit\ClientsAutomation\Tests\bin\Debug\SpreadsheetLight.dll
+C:\PandaGit\ClientsAutomation\Tests\bin\Debug\DocumentFormat.OpenXml.dll
+C:\PandaGit\ClientsAutomation\Tests\bin\Debug\NUnitAutomationFramework.pdb
+C:\PandaGit\ClientsAutomation\Tests\bin\Debug\nunit.framework.xml
+C:\PandaGit\ClientsAutomation\Tests\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\PandaGit\ClientsAutomation\Tests\bin\Debug\ThoughtWorks.Selenium.Core.xml
+C:\PandaGit\ClientsAutomation\Tests\bin\Debug\WebDriver.xml
+C:\PandaGit\ClientsAutomation\Tests\bin\Debug\WebDriver.Support.xml
+C:\PandaGit\ClientsAutomation\Tests\bin\Debug\SpreadsheetLight.xml
+C:\PandaGit\ClientsAutomation\Tests\bin\Debug\DocumentFormat.OpenXml.xml
+C:\PandaGit\ClientsAutomation\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\PandaGit\ClientsAutomation\Tests\obj\Debug\Tests.csproj.ResolveComReference.cache
+C:\PandaGit\ClientsAutomation\Tests\obj\Debug\Tests.dll
+C:\PandaGit\ClientsAutomation\Tests\obj\Debug\Tests.pdb

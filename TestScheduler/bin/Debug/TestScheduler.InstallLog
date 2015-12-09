@@ -1,0 +1,57 @@
+﻿Installing assembly 'C:\NUnitAutomationFramework\TestScheduler\bin\Debug\TestScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\NUnitAutomationFramework\TestScheduler\bin\Debug\TestScheduler.InstallLog
+   assemblypath = C:\NUnitAutomationFramework\TestScheduler\bin\Debug\TestScheduler.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\NUnitAutomationFramework\TestScheduler\bin\Debug\TestScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\NUnitAutomationFramework\TestScheduler\bin\Debug\TestScheduler.InstallLog
+   assemblypath = C:\NUnitAutomationFramework\TestScheduler\bin\Debug\TestScheduler.exe
+Installing assembly 'C:\NUnitAutomationFramework\TestScheduler\bin\Debug\TestScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\NUnitAutomationFramework\TestScheduler\bin\Debug\TestScheduler.InstallLog
+   assemblypath = C:\NUnitAutomationFramework\TestScheduler\bin\Debug\TestScheduler.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\NUnitAutomationFramework\TestScheduler\bin\Debug\TestScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\NUnitAutomationFramework\TestScheduler\bin\Debug\TestScheduler.InstallLog
+   assemblypath = C:\NUnitAutomationFramework\TestScheduler\bin\Debug\TestScheduler.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\NUnitAutomationFramework\TestScheduler\bin\Debug\TestScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\NUnitAutomationFramework\TestScheduler\bin\Debug\TestScheduler.InstallLog
+   assemblypath = C:\NUnitAutomationFramework\TestScheduler\bin\Debug\TestScheduler.exe
+Installing service TestScheduler...
+Service TestScheduler has been successfully installed.
+Creating EventLog source TestScheduler in log Application...
+Committing assembly 'C:\NUnitAutomationFramework\TestScheduler\bin\Debug\TestScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\NUnitAutomationFramework\TestScheduler\bin\Debug\TestScheduler.InstallLog
+   assemblypath = C:\NUnitAutomationFramework\TestScheduler\bin\Debug\TestScheduler.exe
+Uninstalling assembly 'C:\NUnitAutomationFramework\TestScheduler\bin\Debug\TestScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\NUnitAutomationFramework\TestScheduler\bin\Debug\TestScheduler.InstallLog
+   assemblypath = C:\NUnitAutomationFramework\TestScheduler\bin\Debug\TestScheduler.exe
+Removing EventLog source Service1.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\NUnitAutomationFramework\TestScheduler\bin\Debug\TestScheduler.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\NUnitAutomationFramework\TestScheduler\bin\Debug\TestScheduler.InstallLog
+   assemblypath = C:\NUnitAutomationFramework\TestScheduler\bin\Debug\TestScheduler.exe
+Removing EventLog source Service1.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
