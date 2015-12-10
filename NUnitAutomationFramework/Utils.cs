@@ -76,8 +76,8 @@ namespace NUnitAutomationFramework
 
         public static string writeDataToExcel(List<ExcelData> testResults)
         {
-            string excelTemplate = string.Format("{0}Template.xlsx", AppDomain.CurrentDomain.BaseDirectory);
-            string excelFile = string.Format("{0}\\Results\\Template.xlsx", AppDomain.CurrentDomain.BaseDirectory);
+            string excelTemplate = string.Format("{0}Helpers\\Template.xlsx", AppDomain.CurrentDomain.BaseDirectory);
+            string excelFile = string.Format("{0}Results\\Template.xlsx", AppDomain.CurrentDomain.BaseDirectory);
             if (!Directory.Exists("Results"))
                 Directory.CreateDirectory(Utils.combineDirectoryPathWith(@"Results"));
 

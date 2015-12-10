@@ -40,7 +40,7 @@
             // 
             // TestScheduler
             // 
-            this.TestScheduler.ServiceName = "TestScheduler";
+            this.TestScheduler.ServiceName = "TestSchedulerBuild";
             this.TestScheduler.StartType = System.ServiceProcess.ServiceStartMode.Automatic;
             this.TestScheduler.AfterInstall += new System.Configuration.Install.InstallEventHandler(this.TestScheduler_AfterInstall);
             // 

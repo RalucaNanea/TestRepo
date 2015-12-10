@@ -10,7 +10,7 @@ namespace NUnitAutomationFramework
 {
     public class ObjectMap
     {
-        public static string jsonExternalFile = string.Format("{0}{1}", AppDomain.CurrentDomain.BaseDirectory, "JsonFile.json");
+        public static string jsonExternalFile = string.Format("{0}Helpers\\{1}", AppDomain.CurrentDomain.BaseDirectory, "JsonFile.json");
       //  public static string jsonExternalFile = Utils.combineDirectoryPathWith(@"Helpers/JsonFile.json");
       
         //map JSON (deserialize) to custom .NET class for further usage

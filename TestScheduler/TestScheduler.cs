@@ -21,7 +21,7 @@ namespace TestScheduler
 
         protected override void OnStart(string[] args)
         {
-           // Debugger.Launch();
+            //Debugger.Launch();
             // ScheduleService();
             Utils.WriteErrorLog("Service start");
             StartTest();
