@@ -20,7 +20,6 @@ using DocumentFormat.OpenXml;
 namespace NUnitAutomationFramework
 {
     public static class Utils
-
     { 
         public static bool IsElementDisplayed(this IWebDriver driver, By element)
         {

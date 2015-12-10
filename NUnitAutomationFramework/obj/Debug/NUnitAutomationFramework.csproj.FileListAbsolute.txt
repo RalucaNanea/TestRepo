@@ -55,3 +55,4 @@ C:\PandaAsia\NUnitAutomationFramework\bin\Debug\SpreadsheetLight.xml
 C:\PandaAsia\NUnitAutomationFramework\obj\Debug\NUnitAutomationFramework.csproj.ResolveComReference.cache
 C:\PandaAsia\NUnitAutomationFramework\obj\Debug\NUnitAutomationFramework.dll
 C:\PandaAsia\NUnitAutomationFramework\obj\Debug\NUnitAutomationFramework.pdb
+C:\PandaAsia\NUnitAutomationFramework\obj\Debug\NUnitAutomationFramework.csprojResolveAssemblyReference.cache
