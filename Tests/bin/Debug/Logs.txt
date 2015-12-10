@@ -1,0 +1,73 @@
+12/10/2015 11:40:36 AM: Initializing driver
+12/10/2015 11:40:36 AM: Driver is initializing 
+12/10/2015 11:40:44 AM: Driver has been initialized
+12/10/2015 11:40:56 AM: Navigating to http://www.romwe.com/
+12/10/2015 11:41:00 AM: Navigated to http://www.romwe.com/
+12/10/2015 11:41:05 AM: Selected a product from home/category page
+12/10/2015 11:41:13 AM: Waiting to redirect from http://www.romwe.com/ to http://www.romwe.com/Round-Neck-Contrast-Sleeve-Loose-Red-Sweatshirt-p-141832-cat-673.html
+12/10/2015 11:41:13 AM: Redirected from http://www.romwe.com/ to http://www.romwe.com/Round-Neck-Contrast-Sleeve-Loose-Red-Sweatshirt-p-141832-cat-673.html
+12/10/2015 11:41:15 AM: Selected #_related_goods span a(size or color)
+12/10/2015 11:41:19 AM: Selected .choose_size li(size or color)
+12/10/2015 11:41:21 AM: Clicked on AddToCart button #addToCart
+12/10/2015 11:41:21 AM: Waiting 1 second for GoToCart button to be displayed
+12/10/2015 11:41:26 AM: Clicked on GoToCart button
+12/10/2015 11:41:28 AM: Waiting to redirect from http://www.romwe.com/Round-Neck-Contrast-Sleeve-Loose-Sweatshirt-p-138976-cat-673.html to http://www.romwe.com/shopping-cart.html
+12/10/2015 11:41:28 AM: Redirected from http://www.romwe.com/Round-Neck-Contrast-Sleeve-Loose-Sweatshirt-p-138976-cat-673.html to http://www.romwe.com/shopping-cart.html
+12/10/2015 11:41:28 AM: Waiting for document to be ready 
+12/10/2015 11:41:33 AM: Changing domain
+12/10/2015 11:41:33 AM: Wait 1 second for the alert to be displayed
+12/10/2015 11:41:36 AM: Alert has been dismissed
+12/10/2015 11:41:39 AM: Initializing driver
+12/10/2015 11:41:39 AM: Driver is initializing 
+12/10/2015 11:41:46 AM: Driver has been initialized
+12/10/2015 11:41:48 AM: Navigating to http://www.dress-up.com.hk/
+12/10/2015 11:41:51 AM: Navigated to http://www.dress-up.com.hk/
+12/10/2015 11:41:52 AM: Selected a product from home/category page
+12/10/2015 11:41:54 AM: Waiting to redirect from http://www.dress-up.com.hk/ to http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1475&zenid=bca5343cbd1cff3ec23e84a98780a6f1
+12/10/2015 11:41:54 AM: Redirected from http://www.dress-up.com.hk/ to http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1475&zenid=bca5343cbd1cff3ec23e84a98780a6f1
+12/10/2015 11:42:00 AM: Clicked on AddToCart button #cartAdd input[title=' Add to Cart ']
+12/10/2015 11:42:00 AM: Waiting 1 second for GoToCart button to be displayed
+12/10/2015 11:42:04 AM: Waiting to redirect from http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1475&zenid=bca5343cbd1cff3ec23e84a98780a6f1 to http://www.dress-up.com.hk/index.php?main_page=shopping_cart&number_of_uploads=0
+12/10/2015 11:42:04 AM: Redirected from http://www.dress-up.com.hk/index.php?main_page=product_info&cPath=&products_id=1475&zenid=bca5343cbd1cff3ec23e84a98780a6f1 to http://www.dress-up.com.hk/index.php?main_page=shopping_cart&number_of_uploads=0
+12/10/2015 11:42:04 AM: Waiting for document to be ready 
+12/10/2015 11:42:09 AM: Changing domain
+12/10/2015 11:42:09 AM: Wait 1 second for the alert to be displayed
+12/10/2015 11:42:38 AM: Initializing driver
+12/10/2015 11:42:38 AM: Driver is initializing 
+12/10/2015 11:42:45 AM: Driver has been initialized
+12/10/2015 11:42:57 AM: Navigating to http://www.shopjapan.co.jp/
+12/10/2015 11:43:02 AM: Navigated to http://www.shopjapan.co.jp/
+12/10/2015 11:43:13 AM: Selected a product from home/category page
+12/10/2015 11:43:17 AM: Waiting to redirect from http://www.shopjapan.co.jp/opt/ to http://www.shopjapan.co.jp/goods/STP01
+12/10/2015 11:43:17 AM: Redirected from http://www.shopjapan.co.jp/opt/ to http://www.shopjapan.co.jp/goods/STP01
+12/10/2015 11:43:18 AM: Clicked on AddToCart button .itemlist .btn a
+12/10/2015 11:43:18 AM: Waiting 1 second for GoToCart button to be displayed
+12/10/2015 11:43:23 AM: Waiting to redirect from http://www.shopjapan.co.jp/goods/STP01 to http://www.shopjapan.co.jp/disp/CCtViewCart_001.jsp?opcode=add
+12/10/2015 11:43:23 AM: Redirected from http://www.shopjapan.co.jp/goods/STP01 to http://www.shopjapan.co.jp/disp/CCtViewCart_001.jsp?opcode=add
+12/10/2015 11:43:23 AM: Waiting for document to be ready 
+12/10/2015 11:43:29 AM: Changing domain
+12/10/2015 11:43:29 AM: Wait 1 second for the alert to be displayed
+12/10/2015 11:43:33 AM: Alert has been dismissed
+12/10/2015 11:43:45 AM: Initializing driver
+12/10/2015 11:43:45 AM: Driver is initializing 
+12/10/2015 11:43:52 AM: Driver has been initialized
+12/10/2015 11:44:01 AM: Navigating to https://www.dresslink.com/
+12/10/2015 11:44:12 AM: Navigated to https://www.dresslink.com/
+12/10/2015 11:44:12 AM: Advert has been closed on website https://www.dresslink.com/
+12/10/2015 11:44:15 AM: Selected a product from home/category page
+12/10/2015 11:44:18 AM: Waiting to redirect from https://www.dresslink.com/ to http://www.dresslink.com/finejo-ladies-sexy-sheer-mesh-letters-print-short-sleeve-bikini-cover-up-top-p-33732.html
+12/10/2015 11:44:18 AM: Redirected from https://www.dresslink.com/ to http://www.dresslink.com/finejo-ladies-sexy-sheer-mesh-letters-print-short-sleeve-bikini-cover-up-top-p-33732.html
+12/10/2015 11:44:18 AM: Selected #attr_ul_1 li a:not(.cursornot)(size or color)
+12/10/2015 11:44:19 AM: Selected #attr_ul_2 li a:not(.cursornot)(size or color)
+12/10/2015 11:44:19 AM: Clicked on AddToCart button #btn_addtocart
+12/10/2015 11:44:19 AM: Waiting 1 second for GoToCart button to be displayed
+12/10/2015 11:44:22 AM: Clicked on GoToCart button
+12/10/2015 11:44:26 AM: Waiting to redirect from http://www.dresslink.com/finejo-ladies-sexy-sheer-mesh-letters-print-short-sleeve-bikini-cover-up-top-p-33732.html to https://www.dresslink.com/shoppingcart.html
+12/10/2015 11:44:27 AM: Redirected from http://www.dresslink.com/finejo-ladies-sexy-sheer-mesh-letters-print-short-sleeve-bikini-cover-up-top-p-33732.html to https://www.dresslink.com/shoppingcart.html
+12/10/2015 11:44:27 AM: Waiting for document to be ready 
+12/10/2015 11:44:32 AM: Changing domain
+12/10/2015 11:44:32 AM: Wait 1 second for the alert to be displayed
+12/10/2015 11:44:35 AM: Alert has been dismissed
+12/10/2015 11:44:37 AM: Initializing driver
+12/10/2015 11:44:37 AM: Driver is initializing 
+12/10/2015 11:44:44 AM: Driver has been initialized

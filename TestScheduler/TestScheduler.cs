@@ -60,7 +60,7 @@ namespace TestScheduler
         public void StartTest()
         {
             Utils.WriteErrorLog("Service start running");
-            Utils.CleanUpFolder(resultFolder);
+          //  Utils.CleanUpFolder(resultFolder);
             try
             {
 
