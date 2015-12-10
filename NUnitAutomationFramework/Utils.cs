@@ -122,7 +122,6 @@ namespace NUnitAutomationFramework
 
         public static void waitToRedirectToNextPage(string previousUrl)
         {
-            //Debugger.Launch();
             // wait for redirection to next page for maximum 1 minut
             var startTime = DateTime.UtcNow;
             Thread.Sleep(TimeSpan.FromSeconds(1));
