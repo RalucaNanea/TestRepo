@@ -25,7 +25,7 @@ namespace Tests
         {
             //string test = Utils.combineDirectoryPathWith("Logs.txt");
 
-            Utils.CleanUpFolder(Utils.combineDirectoryPathWith("Results")); // hard coded path. It should be replaced
+            Utils.CleanUpFolder(Utils.combineDirectoryPathWith("Results")); 
             Utils.WriteErrorLog("Initializing driver");
             Driver.Initialize();
             Utils.WriteErrorLog("Driver has been initialized");

@@ -114,7 +114,6 @@ namespace NUnitAutomationFramework
             var javaScriptExecutor = Driver.Instance as IJavaScriptExecutor;
             var wait = new WebDriverWait(Driver.Instance, timeout);
 
-            // Check if document is ready
             Func<IWebDriver, bool> readyCondition = webDriver => (bool)javaScriptExecutor
                 //.ExecuteScript("return (document.readyState == 'complete' && jQuery.active == 0)");
              .ExecuteScript("return (document.readyState == 'complete')");
