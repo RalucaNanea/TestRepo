@@ -15,7 +15,6 @@ namespace Tests
     [TestFixture]
     public class TestsVePrompt
     {
-        //global list with test results
         List<ExcelData> testResults = new List<ExcelData>();
         ExcelData result;
 
@@ -23,12 +22,8 @@ namespace Tests
         [SetUp]
         public void Init()
         {
-            //string test = Utils.combineDirectoryPathWith("Logs.txt");
-
             Utils.CleanUpFolder(Utils.combineDirectoryPathWith("Results")); 
-            Utils.WriteErrorLog("Initializing driver");
             Driver.Initialize();
-            Utils.WriteErrorLog("Driver has been initialized");
             result = new ExcelData();
         }
 
@@ -39,16 +34,19 @@ namespace Tests
             Driver.Instance.Navigate().GoToUrl(selector.websiteUrl);
             Utils.WriteErrorLog("Navigated to " + selector.websiteUrl);
             // add current Url to the global list with testResults
+           
             result.clientUrl = selector.websiteUrl;
-
-
+ 
             //add one product to cart
             Actions.addToCart(selector);
 
             //leave website and make sure VePrompt is popping up
             Actions.changeDomainAndDismissBrowserAlert();
 
+            
             Assert.IsTrue(Utils.IsElementDisplayed(Driver.Instance, By.CssSelector("#ve-chat-container")), "VePrompt didn't pop up on website: " + selector.websiteUrl);
+            
+            
 
             Thread.Sleep(TimeSpan.FromSeconds(2));
 
@@ -59,11 +57,11 @@ namespace Tests
         public void Dispose()
         {
             //Debugger.Launch();
-
+            
             //add current status 
             result.testStatus = TestContext.CurrentContext.Result.Status.ToString();
             testResults.Add(result);
-
+            Utils.WriteErrorLog("Test result: " + result.testStatus);
             Driver.Close();
         }
 

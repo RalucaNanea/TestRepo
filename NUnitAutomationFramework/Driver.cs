@@ -20,11 +20,12 @@ namespace NUnitAutomationFramework
             Instance.Manage().Timeouts().ImplicitlyWait(TimeSpan.FromSeconds(5));
             Instance.Manage().Window.Maximize();
             Driver.Instance.Manage().Timeouts().SetPageLoadTimeout(TimeSpan.FromSeconds(180));
-
+            Utils.WriteErrorLog("Driver has been initialized");
         }
 
         public static void Close()
         {
+            Utils.WriteErrorLog("Closing driver");
             Instance.Close();
         }
     }

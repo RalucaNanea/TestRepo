@@ -1,75 +1,102 @@
 ﻿[
-{
-	"websiteUrl": "http://www.romwe.com/",
-	"closeAdvertise": null,
-	"category": null,
-	"firstProduct": ".goods_mz a",
-	"elementsToSelect": ["#_related_goods span a", ".choose_size li"],
-	"btnAddToCart": "#addToCart",
-	"goToCart": ".shoppingtop_baskets input"
-}, 
-{
-	"websiteUrl": "http://www.dress-up.com.hk/",
-	"closeAdvertise": null,
-	"category": null,
-	"firstProduct": ".prod-info .name a",
-	"elementsToSelect": [".back select option"],
-	"btnAddToCart": "#cartAdd input[title=' Add to Cart ']",
-	"goToCart": null
-},
-{
-	"websiteUrl": "http://www.shopjapan.co.jp/",
- 	"closeAdvertise": null,
- 	"category": null,
- 	"firstProduct": ".mboxDefault ul.items.cf li a",
-	"elementsToSelect":[],
- 	"btnAddToCart": ".itemlist .btn a",
-	"goToCart": null
-},
-{
-	"websiteUrl": "https://www.dresslink.com/",
-	"closeAdvertise": ".xubox_setwin a",
-	"category": null,
-	"firstProduct": ".home_hot_title a",
-	"elementsToSelect": ["#attr_ul_1 li a:not(.cursornot)", "#attr_ul_2 li a:not(.cursornot)"],
-	"btnAddToCart": "#btn_addtocart",
-	"goToCart": ".gotocart"
-},
-  {
+     {
+        "websiteUrl": "http://www.beyond.cn/",
+        "closeAdvertise": null,
+        "category": null,
+        "firstProduct": "/html/body/div[3]/div[3]/ul/li[1]/div/div[2]/a",
+        "elementsToSelect": [".item.spec a" ],
+        "btnAddToCart": "#goods-pay",
+        "goToCart": null
+    },
+    {
+        "websiteUrl": "http://www.newchic.com/",
+        "closeAdvertise": null,
+        "category": null,
+        "firstProduct": ".goodsbox li span a",
+        "elementsToSelect": [ ],
+        "btnAddToCart": ".addcart",
+        "goToCart": ".form_submit"
+    },
+    {
+        "websiteUrl": "http://www.yoins.com/",
+        "closeAdvertise": null,
+        "category": ".sale a",
+        "firstProduct": ".name a",
+        "elementsToSelect": [ ".attr_box .clearfix li" ],
+        "btnAddToCart": "#preorder_now",
+        "goToCart": ".checkout"
+    },
+    {
+        "websiteUrl": "http://www.romwe.com/",
+        "closeAdvertise": null,
+        "category": null,
+        "firstProduct": ".goods_mz a",
+        "elementsToSelect": [ "#_related_goods span a", ".choose_size li" ],
+        "btnAddToCart": "#addToCart",
+        "goToCart": ".shoppingtop_baskets input"
+    },
+    {
+        "websiteUrl": "http://www.dress-up.com.hk/",
+        "closeAdvertise": null,
+        "category": null,
+        "firstProduct": ".prod-info .name a",
+        "elementsToSelect": [ ".back select option" ],
+        "btnAddToCart": "#cartAdd input[title=' Add to Cart ']",
+        "goToCart": null
+    },
+    {
+        "websiteUrl": "http://www.shopjapan.co.jp/",
+        "closeAdvertise": null,
+        "category": null,
+        "firstProduct": ".mboxDefault ul.items.cf li a",
+        "elementsToSelect": [ ],
+        "btnAddToCart": ".itemlist .btn a",
+        "goToCart": null
+    },
+    {
+        "websiteUrl": "https://www.dresslink.com/",
+        "closeAdvertise": ".xubox_setwin a",
+        "category": null,
+        "firstProduct": ".home_hot_title a",
+        "elementsToSelect": [ "#attr_ul_1 li a:not(.cursornot)", "#attr_ul_2 li a:not(.cursornot)" ],
+        "btnAddToCart": "#btn_addtocart",
+        "goToCart": ".gotocart"
+    },
+    {
         "websiteUrl": "http://www.jollychic.com/",
-	"closeAdvertise": ".foot_register15_close.J-register15-close",
-	"category": ".nav-cloth a",
-	"firstProduct": "ul.pro_list.categoryTwo-goodsList.J-categoryTwo-goodsList.fn-clear>li:nth-child(1)>a",
-	"elementsToSelect": [".fn-clear.J-attr-container-list span[data-key='COLOR']", ".size-title.J-size-title em",".size-list.J-size-list span"],
-	"btnAddToCart": ".addBtn.fn-left.J-addBtn",
-	"goToCart": ".sbag-view"
+        "closeAdvertise": ".foot_register15_close.J-register15-close",
+        "category": ".nav-cloth a",
+        "firstProduct": "ul.pro_list.categoryTwo-goodsList.J-categoryTwo-goodsList.fn-clear>li:nth-child(1)>a",
+        "elementsToSelect": [ ".fn-clear.J-attr-container-list span[data-key='COLOR']", ".size-title.J-size-title em", ".size-list.J-size-list span" ],
+        "btnAddToCart": ".addBtn.fn-left.J-addBtn",
+        "goToCart": ".sbag-view"
     },
-{
+    {
         "websiteUrl": "http://fr.jollychic.com/",
-	"closeAdvertise": ".foot_register15_close.J-register15-close",
-	"category": ".nav-cloth a",
-	"firstProduct": "ul.pro_list.categoryTwo-goodsList.J-categoryTwo-goodsList.fn-clear>li:nth-child(1)>a",
-	"elementsToSelect": [".fn-clear.J-attr-container-list span[data-key='COLOR']", ".size-title.J-size-title em",".size-list.J-size-list span"],
-	"btnAddToCart": ".addBtn.fn-left.J-addBtn",
-	"goToCart": ".sbag-view"
+        "closeAdvertise": ".foot_register15_close.J-register15-close",
+        "category": ".nav-cloth a",
+        "firstProduct": "ul.pro_list.categoryTwo-goodsList.J-categoryTwo-goodsList.fn-clear>li:nth-child(1)>a",
+        "elementsToSelect": [ ".fn-clear.J-attr-container-list span[data-key='COLOR']", ".size-title.J-size-title em", ".size-list.J-size-list span" ],
+        "btnAddToCart": ".addBtn.fn-left.J-addBtn",
+        "goToCart": ".sbag-view"
     },
-{
+    {
         "websiteUrl": "http://pl.jollychic.com/",
-	"closeAdvertise": ".foot_register15_close.J-register15-close",
-	"category": ".nav-cloth a",
-	"firstProduct": "ul.pro_list.categoryTwo-goodsList.J-categoryTwo-goodsList.fn-clear>li:nth-child(1)>a",
-	"elementsToSelect": [".fn-clear.J-attr-container-list span[data-key='COLOR']", ".size-title.J-size-title em",".size-list.J-size-list span"],
-	"btnAddToCart": ".addBtn.fn-left.J-addBtn",
-	"goToCart": ".sbag-view"
+        "closeAdvertise": ".foot_register15_close.J-register15-close",
+        "category": ".nav-cloth a",
+        "firstProduct": "ul.pro_list.categoryTwo-goodsList.J-categoryTwo-goodsList.fn-clear>li:nth-child(1)>a",
+        "elementsToSelect": [ ".fn-clear.J-attr-container-list span[data-key='COLOR']", ".size-title.J-size-title em", ".size-list.J-size-list span" ],
+        "btnAddToCart": ".addBtn.fn-left.J-addBtn",
+        "goToCart": ".sbag-view"
     },
-{
+    {
         "websiteUrl": "http://ar.jollychic.com/",
-	"closeAdvertise": ".foot_register15_close.J-register15-close",
-	"category": ".nav-cloth a",
-	"firstProduct": "ul.pro_list.categoryTwo-goodsList.J-categoryTwo-goodsList.fn-clear>li:nth-child(1)>a",
-	"elementsToSelect": [".fn-clear.J-attr-container-list span[data-key='COLOR']", ".size-title.J-size-title em",".size-list.J-size-list span"],
-	"btnAddToCart": ".addBtn.fn-left.J-addBtn",
-	"goToCart": ".sbag-view"
+        "closeAdvertise": ".foot_register15_close.J-register15-close",
+        "category": ".nav-cloth a",
+        "firstProduct": "ul.pro_list.categoryTwo-goodsList.J-categoryTwo-goodsList.fn-clear>li:nth-child(1)>a",
+        "elementsToSelect": [ ".fn-clear.J-attr-container-list span[data-key='COLOR']", ".size-title.J-size-title em", ".size-list.J-size-list span" ],
+        "btnAddToCart": ".addBtn.fn-left.J-addBtn",
+        "goToCart": ".sbag-view"
     }
 ]
 

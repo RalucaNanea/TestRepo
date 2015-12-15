@@ -15,12 +15,13 @@ using System.Reflection;
 using System.Runtime.InteropServices;
 using SpreadsheetLight;
 using DocumentFormat.OpenXml;
+using NUnit.Framework;
 
 
 namespace NUnitAutomationFramework
 {
     public static class Utils
-    { 
+    {
         public static bool IsElementDisplayed(this IWebDriver driver, By element)
         {
             if (driver.FindElements(element).Count > 0)
@@ -28,23 +29,49 @@ namespace NUnitAutomationFramework
                 if (driver.FindElement(element).Displayed)
                     return true;
                 else
+                {
+                    Utils.WriteErrorLog("Element " + element + "is not displayed");
                     return false;
+                }
             }
             else
             {
+                Utils.WriteErrorLog("Element " + element + "is not found");
                 return false;
             }
         }
 
         public static IWebElement FindElement(this IWebDriver driver, By by, int timeoutInSeconds)
         {
+
             if (timeoutInSeconds > 0)
             {
-                var wait = new WebDriverWait(driver, TimeSpan.FromSeconds(timeoutInSeconds));
-                return wait.Until(drv => drv.FindElement(by));
+                try
+                {
+                    var wait = new WebDriverWait(driver, TimeSpan.FromSeconds(timeoutInSeconds));
+                    wait.Until(ExpectedConditions.ElementExists(by));
+                    return driver.FindElement(by);
+
+                }
+                catch (NoSuchElementException ex)
+                {
+                    Utils.WriteErrorLog(ex.Message);
+                    throw (ex);
+                }
+                catch (Exception Exc)
+                {
+                    Utils.WriteErrorLog(Exc.InnerException.Message);
+                    throw (Exc);
+                }
+
             }
+
             return driver.FindElement(by);
+
+
         }
+
+
 
         public static IWebElement FindElementOnPage(this IWebDriver webDriver, By by)
         {
@@ -55,6 +82,7 @@ namespace NUnitAutomationFramework
             js.ExecuteScript("window.scrollTo(0," + height + ")");
             return element;
         }
+
 
         public static Boolean isAlertPresent()
         {
@@ -179,6 +207,7 @@ namespace NUnitAutomationFramework
 
         public static void CleanUpFolder(string folderPath)
         {
+            Utils.WriteErrorLog("Cleaning up folder" + folderPath);
             if (!Directory.Exists(folderPath))
                 Directory.CreateDirectory(folderPath);
 
@@ -198,6 +227,22 @@ namespace NUnitAutomationFramework
             var dirPath = Assembly.GetExecutingAssembly().Location;
             dirPath = Path.GetDirectoryName(dirPath);
             return Path.GetFullPath(Path.Combine(dirPath, combinePath));
+        }
+
+        public static By getByLocator(String locator)
+        {
+            By by = null;
+            if (isXpath(locator))
+                by = By.XPath(locator);
+            else
+                by = By.CssSelector(locator);
+            return by;
+        }
+        public static bool isXpath(string locator)
+        {
+            if (locator.StartsWith("//") || locator.StartsWith("/"))
+                return true;
+            return false;
         }
     }
 }
